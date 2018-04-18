@@ -1,0 +1,4034 @@
+====== Continent =======
+ID: africa
+Name: Africa
+
+Countries: 
+======= Country =======
+ID: cid-cia-Algeria
+Continent: Africa
+Name: Algeria
+Datacode: AG
+Population: 29183032
+Population growth: 2.21
+Infant mortality: 48.7
+Gdp agri: 12
+Inflation: 28
+Gdp total: 108700
+Indep date: 05 07 1962
+Government: republic
+Capital: Algiers
+======================
+======= Country =======
+ID: cid-cia-Angola
+Continent: Africa
+Name: Angola
+Datacode: AO
+Population: 10342899
+Population growth: 2.68
+Infant mortality: 138.9
+Gdp agri: 12
+Inflation: 20
+Gdp total: 7400
+Indep date: 11 11 1975
+Government: transitional government nominally a multiparty democracy with a strong presidential system
+Capital: Luanda
+======================
+======= Country =======
+ID: cid-cia-Bassas-da-India
+Continent: Africa
+Name: Bassas da India
+Datacode: BS
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: French possession administered by a Commissioner of the Republic
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Benin
+Continent: Africa
+Name: Benin
+Datacode: BN
+Population: 5709529
+Population growth: 3.32
+Infant mortality: 105.1
+Gdp agri: 36.8
+Inflation: 55
+Gdp total: 7600
+Indep date: 01 08 1960
+Government: republic under multiparty democratic rule dropped Marxism Leninism December 1989
+Capital: Porto Novo
+======================
+======= Country =======
+ID: cid-cia-Botswana
+Continent: Africa
+Name: Botswana
+Datacode: BC
+Population: 1477630
+Population growth: 1.63
+Infant mortality: 54.2
+Gdp agri: 5
+Inflation: 10
+Gdp total: 4500
+Indep date: 30 09 1966
+Government: parliamentary republic
+Capital: Gaborone
+======================
+======= Country =======
+ID: cid-cia-Bouvet-Island
+Continent: Africa
+Name: Bouvet Island
+Datacode: BV
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Norway
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Burkina-Faso
+Continent: Africa
+Name: Burkina Faso
+Datacode: UV
+Population: 10623323
+Population growth: 2.53
+Infant mortality: 117.8
+Gdp agri: 32
+Inflation: 5
+Gdp total: 7400
+Indep date: 05 08 1960
+Government: parliamentary
+Capital: Ouagadougou
+======================
+======= Country =======
+ID: cid-cia-Burundi
+Continent: Africa
+Name: Burundi
+Datacode: BY
+Population: 5943057
+Population growth: 1.54
+Infant mortality: 102.2
+Gdp agri: 54.1
+Inflation: 10
+Gdp total: 4000
+Indep date: 01 07 1962
+Government: republic
+Capital: Bujumbura
+======================
+======= Country =======
+ID: cid-cia-Cameroon
+Continent: Africa
+Name: Cameroon
+Datacode: CM
+Population: 14261557
+Population growth: 2.89
+Infant mortality: 78.7
+Gdp agri: 29
+Inflation: 48
+Gdp total: 16500
+Indep date: 01 01 1960
+Government: unitary republic
+Capital: Yaounde
+======================
+======= Country =======
+ID: cid-cia-Cape-Verde
+Continent: Africa
+Name: Cape Verde
+Datacode: CV
+Population: 449066
+Population growth: 2.93
+Infant mortality: 54.3
+Gdp agri: 13
+Inflation: 5
+Gdp total: 440
+Indep date: 05 07 1975
+Government: republic
+Capital: Praia
+======================
+======= Country =======
+ID: cid-cia-Central-African-Republic
+Continent: Africa
+Name: Central African Republic
+Datacode: CT
+Population: 3274426
+Population growth: 2.08
+Infant mortality: 111.7
+Gdp agri: 50
+Inflation: 45
+Gdp total: 2500
+Indep date: 13 08 1960
+Government: republic
+Capital: Bangui
+======================
+======= Country =======
+ID: cid-cia-Chad
+Continent: Africa
+Name: Chad
+Datacode: CD
+Population: 6976845
+Population growth: 2.68
+Infant mortality: 120.4
+Gdp agri: 49
+Inflation: 41
+Gdp total: 3300
+Indep date: 11 08 1960
+Government: republic
+Capital: NDjamena
+======================
+======= Country =======
+ID: cid-cia-Comoros
+Continent: Africa
+Name: Comoros
+Datacode: CN
+Population: 569237
+Population growth: 3.55
+Infant mortality: 75.3
+Gdp agri: 
+Inflation: 15
+Gdp total: 370
+Indep date: 06 07 1975
+Government: independent republic
+Capital: Moroni
+======================
+======= Country =======
+ID: cid-cia-Congo
+Continent: Africa
+Name: Congo
+Datacode: CF
+Population: 2527841
+Population growth: 2.19
+Infant mortality: 108.1
+Gdp agri: 11.4
+Inflation: 61
+Gdp total: 7700
+Indep date: 15 08 1960
+Government: republic
+Capital: Brazzaville
+======================
+======= Country =======
+ID: cid-cia-Cote-dIvoire
+Continent: Africa
+Name: Cote dIvoire
+Datacode: IV
+Population: 14762445
+Population growth: 2.92
+Infant mortality: 82.4
+Gdp agri: 37
+Inflation: 10
+Gdp total: 21900
+Indep date: 07 08 1960
+Government: republic
+Capital: Yamoussoukro
+======================
+======= Country =======
+ID: cid-cia-Djibouti
+Continent: Africa
+Name: Djibouti
+Datacode: DJ
+Population: 427642
+Population growth: 1.5
+Infant mortality: 106.7
+Gdp agri: 3
+Inflation: 6
+Gdp total: 500
+Indep date: 27 06 1977
+Government: republic
+Capital: Djibouti
+======================
+======= Country =======
+ID: cid-cia-Egypt
+Continent: Africa
+Name: Egypt
+Datacode: EG
+Population: 63575107
+Population growth: 1.91
+Infant mortality: 72.8
+Gdp agri: 
+Inflation: 9.4
+Gdp total: 171000
+Indep date: 28 02 1922
+Government: republic
+Capital: Cairo
+======================
+======= Country =======
+ID: cid-cia-Equatorial-Guinea
+Continent: Africa
+Name: Equatorial Guinea
+Datacode: EK
+Population: 431282
+Population growth: 2.58
+Infant mortality: 98
+Gdp agri: 47
+Inflation: 41
+Gdp total: 325
+Indep date: 12 10 1968
+Government: republic in transition to multiparty democracy
+Capital: Malabo
+======================
+======= Country =======
+ID: cid-cia-Eritrea
+Continent: Africa
+Name: Eritrea
+Datacode: ER
+Population: 3427883
+Population growth: 2.79
+Infant mortality: 118.9
+Gdp agri: 
+Inflation: 10
+Gdp total: 2000
+Indep date: 27 05 1993
+Government: transitional government
+Capital: Asmara
+======================
+======= Country =======
+ID: cid-cia-Ethiopia
+Continent: Africa
+Name: Ethiopia
+Datacode: ET
+Population: 57171662
+Population growth: 2.72
+Infant mortality: 122.8
+Gdp agri: 48
+Inflation: 10
+Gdp total: 24200
+Indep date: 
+Government: federal republic
+Capital: Addis Ababa
+======================
+======= Country =======
+ID: cid-cia-Europa-Island
+Continent: Africa
+Name: Europa Island
+Datacode: EU
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: French possession administered by Commissioner of the Republic
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-French-Southern-and-Antarctic-Lands
+Continent: Africa
+Name: French Southern and Antarctic Lands
+Datacode: FS
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: overseas territory of France since 1955
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Gabon
+Continent: Africa
+Name: Gabon
+Datacode: GB
+Population: 1172798
+Population growth: 1.47
+Infant mortality: 90.1
+Gdp agri: 8.2
+Inflation: 15
+Gdp total: 6000
+Indep date: 17 08 1960
+Government: republic
+Capital: Libreville
+======================
+======= Country =======
+ID: cid-cia-Gambia
+Continent: Africa
+Name: Gambia
+Datacode: GA
+Population: 1204984
+Population growth: 3.55
+Infant mortality: 80.5
+Gdp agri: 27
+Inflation: 1.7
+Gdp total: 1100
+Indep date: 18 02 1965
+Government: republic under multiparty democratic rule
+Capital: Banjul
+======================
+======= Country =======
+ID: cid-cia-Ghana
+Continent: Africa
+Name: Ghana
+Datacode: GH
+Population: 17698271
+Population growth: 2.29
+Infant mortality: 80.3
+Gdp agri: 47
+Inflation: 69
+Gdp total: 25100
+Indep date: 06 03 1957
+Government: constitutional democracy
+Capital: Accra
+======================
+======= Country =======
+ID: cid-cia-Glorioso-Islands
+Continent: Africa
+Name: Glorioso Islands
+Datacode: GO
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: French possession administered by Commissioner of the Republic
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Guinea
+Continent: Africa
+Name: Guinea
+Datacode: GV
+Population: 7411981
+Population growth: 1.85
+Infant mortality: 134.1
+Gdp agri: 24
+Inflation: 4.1
+Gdp total: 6500
+Indep date: 02 10 1958
+Government: republic
+Capital: Conakry
+======================
+======= Country =======
+ID: cid-cia-Guinea-Bissau
+Continent: Africa
+Name: Guinea-Bissau
+Datacode: PU
+Population: 1151330
+Population growth: 2.35
+Infant mortality: 115.8
+Gdp agri: 44
+Inflation: 15
+Gdp total: 1000
+Indep date: 10 09 1974
+Government: republic
+Capital: Bissau
+======================
+======= Country =======
+ID: cid-cia-Heard-Island-and-McDonald-Islands
+Continent: Africa
+Name: Heard Island and McDonald Islands
+Datacode: HM
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Australia administered by the Ministry for Environment
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Juan-de-Nova-Island
+Continent: Africa
+Name: Juan de Nova Island
+Datacode: JU
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: French possession administered by Commissioner of the Republic
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Kenya
+Continent: Africa
+Name: Kenya
+Datacode: KE
+Population: 28176686
+Population growth: 2.27
+Infant mortality: 55.3
+Gdp agri: 27
+Inflation: 1.7
+Gdp total: 36800
+Indep date: 12 12 1963
+Government: republic
+Capital: Nairobi
+======================
+======= Country =======
+ID: cid-cia-Lesotho
+Continent: Africa
+Name: Lesotho
+Datacode: LT
+Population: 1970781
+Population growth: 1.9
+Infant mortality: 81.6
+Gdp agri: 10.4
+Inflation: 9.5
+Gdp total: 2800
+Indep date: 04 10 1966
+Government: modified constitutional monarchy
+Capital: Maseru
+======================
+======= Country =======
+ID: cid-cia-Liberia
+Continent: Africa
+Name: Liberia
+Datacode: LI
+Population: 2109789
+Population growth: 2.13
+Infant mortality: 108.1
+Gdp agri: 
+Inflation: 50
+Gdp total: 2300
+Indep date: 
+Government: republic
+Capital: Monrovia
+======================
+======= Country =======
+ID: cid-cia-Libya
+Continent: Africa
+Name: Libya
+Datacode: LY
+Population: 5445436
+Population growth: 3.67
+Infant mortality: 59.5
+Gdp agri: 
+Inflation: 25
+Gdp total: 32900
+Indep date: 24 12 1951
+Government: Jamahiriya in theory
+Capital: Tripoli
+======================
+======= Country =======
+ID: cid-cia-Madagascar
+Continent: Africa
+Name: Madagascar
+Datacode: MA
+Population: 13670507
+Population growth: 2.83
+Infant mortality: 93.5
+Gdp agri: 35
+Inflation: 35
+Gdp total: 11400
+Indep date: 26 06 1960
+Government: republic
+Capital: Antananarivo
+======================
+======= Country =======
+ID: cid-cia-Malawi
+Continent: Africa
+Name: Malawi
+Datacode: MI
+Population: 9452844
+Population growth: 1.71
+Infant mortality: 139.9
+Gdp agri: 31
+Inflation: 83.3
+Gdp total: 6900
+Indep date: 06 07 1964
+Government: multiparty democracy
+Capital: Lilongwe
+======================
+======= Country =======
+ID: cid-cia-Mali
+Continent: Africa
+Name: Mali
+Datacode: ML
+Population: 9653261
+Population growth: 2.95
+Infant mortality: 102.7
+Gdp agri: 42.4
+Inflation: 8
+Gdp total: 5400
+Indep date: 22 09 1960
+Government: republic
+Capital: Bamako
+======================
+======= Country =======
+ID: cid-cia-Mauritania
+Continent: Africa
+Name: Mauritania
+Datacode: MR
+Population: 2336048
+Population growth: 3.17
+Infant mortality: 81.7
+Gdp agri: 27.1
+Inflation: 3.5
+Gdp total: 2800
+Indep date: 28 11 1960
+Government: republic
+Capital: Nouakchott
+======================
+======= Country =======
+ID: cid-cia-Mauritius
+Continent: Africa
+Name: Mauritius
+Datacode: MP
+Population: 1140256
+Population growth: 1.23
+Infant mortality: 17.2
+Gdp agri: 
+Inflation: 9.4
+Gdp total: 10900
+Indep date: 12 03 1968
+Government: parliamentary democracy
+Capital: Port Louis
+======================
+======= Country =======
+ID: cid-cia-Mayotte
+Continent: Africa
+Name: Mayotte
+Datacode: MF
+Population: 100838
+Population growth: 3.78
+Infant mortality: 75.3
+Gdp agri: 
+Inflation: 
+Gdp total: 54
+Indep date: 
+Government: territorial collectivity of France
+Capital: Mamoutzou
+======================
+======= Country =======
+ID: cid-cia-Morocco
+Continent: Africa
+Name: Morocco
+Datacode: MO
+Population: 29779156
+Population growth: 2.05
+Infant mortality: 43.2
+Gdp agri: 14.3
+Inflation: 5.4
+Gdp total: 87400
+Indep date: 02 03 1956
+Government: constitutional monarchy
+Capital: Rabat
+======================
+======= Country =======
+ID: cid-cia-Mozambique
+Continent: Africa
+Name: Mozambique
+Datacode: MZ
+Population: 17877927
+Population growth: 2.65
+Infant mortality: 125.6
+Gdp agri: 33
+Inflation: 50
+Gdp total: 12200
+Indep date: 25 06 1975
+Government: republic
+Capital: Maputo
+======================
+======= Country =======
+ID: cid-cia-Namibia
+Continent: Africa
+Name: Namibia
+Datacode: WA
+Population: 1677243
+Population growth: 2.93
+Infant mortality: 47.2
+Gdp agri: 
+Inflation: 11
+Gdp total: 5800
+Indep date: 21 03 1990
+Government: republic
+Capital: Windhoek
+======================
+======= Country =======
+ID: cid-cia-Niger
+Continent: Africa
+Name: Niger
+Datacode: NG
+Population: 9113001
+Population growth: 2.99
+Infant mortality: 117.6
+Gdp agri: 38.5
+Inflation: 35.6
+Gdp total: 5500
+Indep date: 03 08 1960
+Government: republic
+Capital: Niamey
+======================
+======= Country =======
+ID: cid-cia-Nigeria
+Continent: Africa
+Name: Nigeria
+Datacode: NI
+Population: 103912489
+Population growth: 3.05
+Infant mortality: 72.4
+Gdp agri: 38
+Inflation: 57
+Gdp total: 135900
+Indep date: 01 10 1960
+Government: military government
+Capital: Abuja
+======================
+======= Country =======
+ID: cid-cia-Reunion
+Continent: Africa
+Name: Reunion
+Datacode: RE
+Population: 679198
+Population growth: 1.93
+Infant mortality: 7.5
+Gdp agri: 
+Inflation: 
+Gdp total: 2900
+Indep date: 
+Government: overseas department of France
+Capital: Saint Denis
+======================
+======= Country =======
+ID: cid-cia-Rwanda
+Continent: Africa
+Name: Rwanda
+Datacode: RW
+Population: 6853359
+Population growth: 16.49
+Infant mortality: 118.8
+Gdp agri: 52
+Inflation: 64
+Gdp total: 3800
+Indep date: 01 07 1962
+Government: republic
+Capital: Kigali
+======================
+======= Country =======
+ID: cid-cia-Saint-Helena
+Continent: Africa
+Name: Saint Helena
+Datacode: SH
+Population: 6782
+Population growth: 0.31
+Infant mortality: 35.14
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: dependent territory of the UK
+Capital: Jamestown
+======================
+======= Country =======
+ID: cid-cia-Sao-Tome-and-Principe
+Continent: Africa
+Name: Sao Tome and Principe
+Datacode: TP
+Population: 144128
+Population growth: 2.58
+Infant mortality: 61.1
+Gdp agri: 28
+Inflation: 38
+Gdp total: 138
+Indep date: 12 07 1975
+Government: republic
+Capital: Sao Tome
+======================
+======= Country =======
+ID: cid-cia-Senegal
+Continent: Africa
+Name: Senegal
+Datacode: SG
+Population: 9092749
+Population growth: 3.37
+Infant mortality: 64
+Gdp agri: 
+Inflation: 6.1
+Gdp total: 14500
+Indep date: 20 08 1960
+Government: republic under multiparty democratic rule
+Capital: Dakar
+======================
+======= Country =======
+ID: cid-cia-Seychelles
+Continent: Africa
+Name: Seychelles
+Datacode: SE
+Population: 77575
+Population growth: 0.76
+Infant mortality: 12.5
+Gdp agri: 
+Inflation: 3.9
+Gdp total: 430
+Indep date: 29 06 1976
+Government: republic
+Capital: Victoria
+======================
+======= Country =======
+ID: cid-cia-Sierra-Leone
+Continent: Africa
+Name: Sierra Leone
+Datacode: SL
+Population: 4793121
+Population growth: 4.14
+Infant mortality: 135.6
+Gdp agri: 40
+Inflation: 24
+Gdp total: 4400
+Indep date: 27 04 1961
+Government: constitutional democracy
+Capital: Freetown
+======================
+======= Country =======
+ID: cid-cia-Somalia
+Continent: Africa
+Name: Somalia
+Datacode: SO
+Population: 9639151
+Population growth: 3.1
+Infant mortality: 121.1
+Gdp agri: 
+Inflation: 
+Gdp total: 3600
+Indep date: 01 07 1960
+Government: none
+Capital: Mogadishu
+======================
+======= Country =======
+ID: cid-cia-South-Africa
+Continent: Africa
+Name: South Africa
+Datacode: SF
+Population: 41743459
+Population growth: 1.76
+Infant mortality: 48.8
+Gdp agri: 
+Inflation: 8.7
+Gdp total: 215000
+Indep date: 31 05 1910
+Government: republic
+Capital: Pretoria
+======================
+======= Country =======
+ID: cid-cia-Sudan
+Continent: Africa
+Name: Sudan
+Datacode: SU
+Population: 31547543
+Population growth: 3.48
+Infant mortality: 76
+Gdp agri: 33
+Inflation: 66
+Gdp total: 25000
+Indep date: 01 01 1956
+Government: transitional previously ruling military junta
+Capital: Khartoum
+======================
+======= Country =======
+ID: cid-cia-Swaziland
+Continent: Africa
+Name: Swaziland
+Datacode: WZ
+Population: 998730
+Population growth: 3.24
+Infant mortality: 88.4
+Gdp agri: 25
+Inflation: 14.7
+Gdp total: 3600
+Indep date: 06 09 1968
+Government: monarchy
+Capital: Mbabane
+======================
+======= Country =======
+ID: cid-cia-Tanzania
+Continent: Africa
+Name: Tanzania
+Datacode: TZ
+Population: 29058470
+Population growth: 1.15
+Infant mortality: 105.9
+Gdp agri: 58
+Inflation: 25
+Gdp total: 23100
+Indep date: 26 04 1964
+Government: republic
+Capital: Dar es Salaam
+======================
+======= Country =======
+ID: cid-cia-Togo
+Continent: Africa
+Name: Togo
+Datacode: TO
+Population: 4570530
+Population growth: 3.56
+Infant mortality: 84.3
+Gdp agri: 49.2
+Inflation: 8.8
+Gdp total: 4100
+Indep date: 27 04 1960
+Government: republic under transition to multiparty democratic rule
+Capital: Lome
+======================
+======= Country =======
+ID: cid-cia-Tromelin-Island
+Continent: Africa
+Name: Tromelin Island
+Datacode: TE
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: French possession administered by Commissioner of the Republic
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Tunisia
+Continent: Africa
+Name: Tunisia
+Datacode: TS
+Population: 9019687
+Population growth: 1.81
+Infant mortality: 35.1
+Gdp agri: 15
+Inflation: 5.5
+Gdp total: 37100
+Indep date: 20 03 1956
+Government: republic
+Capital: Tunis
+======================
+======= Country =======
+ID: cid-cia-Uganda
+Continent: Africa
+Name: Uganda
+Datacode: UG
+Population: 20158176
+Population growth: 2.24
+Infant mortality: 99.4
+Gdp agri: 55
+Inflation: 6.1
+Gdp total: 16800
+Indep date: 09 10 1962
+Government: republic
+Capital: Kampala
+======================
+======= Country =======
+ID: cid-cia-Western-Sahara
+Continent: Africa
+Name: Western Sahara
+Datacode: WI
+Population: 222631
+Population growth: 2.46
+Infant mortality: 145.82
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: legal status of territory and question of sovereignty unresolved
+Capital: El Aaiun
+======================
+======= Country =======
+ID: cid-cia-Zaire
+Continent: Africa
+Name: Zaire
+Datacode: CG
+Population: 46498539
+Population growth: 1.67
+Infant mortality: 108
+Gdp agri: 
+Inflation: 12
+Gdp total: 16500
+Indep date: 30 06 1960
+Government: republic with a strong presidential system
+Capital: Kinshasa
+======================
+======= Country =======
+ID: cid-cia-Zambia
+Continent: Africa
+Name: Zambia
+Datacode: ZA
+Population: 9159072
+Population growth: 2.11
+Infant mortality: 96.1
+Gdp agri: 32
+Inflation: 55
+Gdp total: 8900
+Indep date: 24 10 1964
+Government: republic
+Capital: Lusaka
+======================
+======= Country =======
+ID: cid-cia-Zimbabwe
+Continent: Africa
+Name: Zimbabwe
+Datacode: ZI
+Population: 11271314
+Population growth: 1.41
+Infant mortality: 72.8
+Gdp agri: 18.3
+Inflation: 25.8
+Gdp total: 18100
+Indep date: 18 04 1980
+Government: parliamentary democracy
+Capital: Harare
+======================
+======================
+
+====== Continent =======
+ID: asia
+Name: Asia
+
+Countries: 
+======= Country =======
+ID: cid-cia-Afghanistan
+Continent: Asia
+Name: Afghanistan
+Datacode: AF
+Population: 22664136
+Population growth: 4.78
+Infant mortality: 149.7
+Gdp agri: 65
+Inflation: 
+Gdp total: 12800
+Indep date: 19 08 1919
+Government: transitional government
+Capital: Kabul
+======================
+======= Country =======
+ID: cid-cia-Armenia
+Continent: Asia
+Name: Armenia
+Datacode: AM
+Population: 3463574
+Population growth: 0.02
+Infant mortality: 38.9
+Gdp agri: 57
+Inflation: 32.2
+Gdp total: 9100
+Indep date: 28 05 1918
+Government: republic
+Capital: Yerevan
+======================
+======= Country =======
+ID: cid-cia-Ashmore-and-Cartier-Islands
+Continent: Asia
+Name: Ashmore and Cartier Islands
+Datacode: AT
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Australia administered by the Australian Ministry for the Environment
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Azerbaijan
+Continent: Asia
+Name: Azerbaijan
+Datacode: AJ
+Population: 7676953
+Population growth: 0.78
+Infant mortality: 74.5
+Gdp agri: 
+Inflation: 85
+Gdp total: 11500
+Indep date: 30 08 1991
+Government: republic
+Capital: Baku
+======================
+======= Country =======
+ID: cid-cia-Bahrain
+Continent: Asia
+Name: Bahrain
+Datacode: BA
+Population: 590042
+Population growth: 2.27
+Infant mortality: 17.1
+Gdp agri: 
+Inflation: 3
+Gdp total: 7300
+Indep date: 15 08 1971
+Government: traditional monarchy
+Capital: Manama
+======================
+======= Country =======
+ID: cid-cia-Bangladesh
+Continent: Asia
+Name: Bangladesh
+Datacode: BG
+Population: 123062800
+Population growth: 1.85
+Infant mortality: 102.3
+Gdp agri: 
+Inflation: 4.5
+Gdp total: 144500
+Indep date: 16 12 1971
+Government: republic
+Capital: Dhaka
+======================
+======= Country =======
+ID: cid-cia-Bhutan
+Continent: Asia
+Name: Bhutan
+Datacode: BT
+Population: 1822625
+Population growth: 2.32
+Infant mortality: 116.3
+Gdp agri: 
+Inflation: 8.6
+Gdp total: 1300
+Indep date: 08 08 1949
+Government: monarchy
+Capital: Thimphu
+======================
+======= Country =======
+ID: cid-cia-British-Indian-Ocean-Territory
+Continent: Asia
+Name: British Indian Ocean Territory
+Datacode: IO
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: dependent territory of the UK
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Brunei
+Continent: Asia
+Name: Brunei
+Datacode: BX
+Population: 299939
+Population growth: 2.56
+Infant mortality: 24.2
+Gdp agri: 3
+Inflation: 2.4
+Gdp total: 4600
+Indep date: 01 01 1984
+Government: constitutional sultanate
+Capital: Bandar Seri Begawan
+======================
+======= Country =======
+ID: cid-cia-Burma
+Continent: Asia
+Name: Burma
+Datacode: BM
+Population: 45975625
+Population growth: 1.84
+Infant mortality: 80.7
+Gdp agri: 60
+Inflation: 38
+Gdp total: 47000
+Indep date: 04 01 1948
+Government: military regime
+Capital: Rangoon
+======================
+======= Country =======
+ID: cid-cia-Cambodia
+Continent: Asia
+Name: Cambodia
+Datacode: CB
+Population: 10861218
+Population growth: 2.77
+Infant mortality: 107.8
+Gdp agri: 52
+Inflation: 6
+Gdp total: 7000
+Indep date: 09 11 1949
+Government: multiparty liberal democracy under a constitutional monarchy established in September 1993
+Capital: Phnom Penh
+======================
+======= Country =======
+ID: cid-cia-China
+Continent: Asia
+Name: China
+Datacode: CH
+Population: 1210004956
+Population growth: 0.98
+Infant mortality: 39.6
+Gdp agri: 19
+Inflation: 10.1
+Gdp total: 3500000
+Indep date: 
+Government: Communist state
+Capital: Beijing
+======================
+======= Country =======
+ID: cid-cia-Christmas-Island
+Continent: Asia
+Name: Christmas Island
+Datacode: KT
+Population: 813
+Population growth: -8.98
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Australia
+Capital: The Settlement
+======================
+======= Country =======
+ID: cid-cia-Cocos-Islands
+Continent: Asia
+Name: Cocos Islands
+Datacode: CK
+Population: 609
+Population growth: 0.94
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Australia
+Capital: West Island
+======================
+======= Country =======
+ID: cid-cia-Cyprus
+Continent: Asia
+Name: Cyprus
+Datacode: CY
+Population: 744609
+Population growth: 1.11
+Infant mortality: 8.4
+Gdp agri: 5.6
+Inflation: 
+Gdp total: 7800
+Indep date: 16 08 1960
+Government: republic
+Capital: Nicosia
+======================
+======= Country =======
+ID: cid-cia-Gaza-Strip
+Continent: Asia
+Name: Gaza Strip
+Datacode: GZ
+Population: 813332
+Population growth: 4.55
+Infant mortality: 30.6
+Gdp agri: 
+Inflation: 5.7
+Gdp total: 1700
+Indep date: 
+Government: 
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Georgia
+Continent: Asia
+Name: Georgia
+Datacode: GG
+Population: 5219810
+Population growth: -1.02
+Infant mortality: 22.5
+Gdp agri: 70.4
+Inflation: 2.2
+Gdp total: 6200
+Indep date: 09 04 1991
+Government: republic
+Capital: Tbilisi
+======================
+======= Country =======
+ID: cid-cia-Hong-Kong
+Continent: Asia
+Name: Hong Kong
+Datacode: HK
+Population: 6305413
+Population growth: 1.77
+Infant mortality: 5.1
+Gdp agri: 0.2
+Inflation: 8.4
+Gdp total: 152400
+Indep date: 
+Government: dependent territory of the UK scheduled to revert to China on 1 July 1997
+Capital: Victoria
+======================
+======= Country =======
+ID: cid-cia-India
+Continent: Asia
+Name: India
+Datacode: IN
+Population: 952107694
+Population growth: 1.64
+Infant mortality: 71.1
+Gdp agri: 
+Inflation: 9
+Gdp total: 1408700
+Indep date: 15 08 1947
+Government: federal republic
+Capital: New Delhi
+======================
+======= Country =======
+ID: cid-cia-Indonesia
+Continent: Asia
+Name: Indonesia
+Datacode: ID
+Population: 206611600
+Population growth: 1.53
+Infant mortality: 63.1
+Gdp agri: 17
+Inflation: 8.6
+Gdp total: 710900
+Indep date: 17 08 1945
+Government: republic
+Capital: Jakarta
+======================
+======= Country =======
+ID: cid-cia-Iran
+Continent: Asia
+Name: Iran
+Datacode: IR
+Population: 66094264
+Population growth: 2.21
+Infant mortality: 52.7
+Gdp agri: 21
+Inflation: 60
+Gdp total: 323500
+Indep date: 01 04 1979
+Government: theocratic republic
+Capital: Tehran
+======================
+======= Country =======
+ID: cid-cia-Iraq
+Continent: Asia
+Name: Iraq
+Datacode: IZ
+Population: 21422292
+Population growth: 3.69
+Infant mortality: 60
+Gdp agri: 
+Inflation: 
+Gdp total: 41100
+Indep date: 03 10 1932
+Government: republic
+Capital: Baghdad
+======================
+======= Country =======
+ID: cid-cia-Israel
+Continent: Asia
+Name: Israel
+Datacode: IS
+Population: 5421995
+Population growth: 2.11
+Infant mortality: 8.5
+Gdp agri: 3.5
+Inflation: 10.1
+Gdp total: 80100
+Indep date: 14 05 1948
+Government: republic
+Capital: Jerusalem
+======================
+======= Country =======
+ID: cid-cia-Japan
+Continent: Asia
+Name: Japan
+Datacode: JA
+Population: 125449703
+Population growth: 0.21
+Infant mortality: 4.4
+Gdp agri: 2.1
+Inflation: -0.1
+Gdp total: 2679200
+Indep date: 
+Government: constitutional monarchy
+Capital: Tokyo
+======================
+======= Country =======
+ID: cid-cia-Jordan
+Continent: Asia
+Name: Jordan
+Datacode: JO
+Population: 4212152
+Population growth: 2.65
+Infant mortality: 31.5
+Gdp agri: 11
+Inflation: 3
+Gdp total: 19300
+Indep date: 25 05 1946
+Government: constitutional monarchy
+Capital: Amman
+======================
+======= Country =======
+ID: cid-cia-Kazakstan
+Continent: Asia
+Name: Kazakstan
+Datacode: KZ
+Population: 16916463
+Population growth: -0.15
+Infant mortality: 63.2
+Gdp agri: 28.5
+Inflation: 60.3
+Gdp total: 46900
+Indep date: 16 12 1991
+Government: republic
+Capital: Almaty
+======================
+======= Country =======
+ID: cid-cia-North-Korea
+Continent: Asia
+Name: North Korea
+Datacode: KN
+Population: 23904124
+Population growth: 1.74
+Infant mortality: 25.9
+Gdp agri: 25
+Inflation: 
+Gdp total: 21500
+Indep date: 
+Government: Communist state
+Capital: Pyongyang
+======================
+======= Country =======
+ID: cid-cia-South-Korea
+Continent: Asia
+Name: South Korea
+Datacode: KS
+Population: 45482291
+Population growth: 1.02
+Infant mortality: 8.2
+Gdp agri: 8
+Inflation: 4.3
+Gdp total: 590700
+Indep date: 
+Government: republic
+Capital: Seoul
+======================
+======= Country =======
+ID: cid-cia-Kuwait
+Continent: Asia
+Name: Kuwait
+Datacode: KU
+Population: 1950047
+Population growth: 6.65
+Infant mortality: 11.1
+Gdp agri: 0
+Inflation: 5
+Gdp total: 30800
+Indep date: 19 06 1961
+Government: nominal constitutional monarchy
+Capital: Kuwait
+======================
+======= Country =======
+ID: cid-cia-Kyrgyzstan
+Continent: Asia
+Name: Kyrgyzstan
+Datacode: KG
+Population: 4529648
+Population growth: 0.07
+Infant mortality: 77.8
+Gdp agri: 
+Inflation: 32
+Gdp total: 5400
+Indep date: 31 08 1991
+Government: republic
+Capital: Bishkek
+======================
+======= Country =======
+ID: cid-cia-Laos
+Continent: Asia
+Name: Laos
+Datacode: LA
+Population: 4975772
+Population growth: 2.81
+Infant mortality: 96.8
+Gdp agri: 50
+Inflation: 20
+Gdp total: 5200
+Indep date: 19 07 1949
+Government: Communist state
+Capital: Vientiane
+======================
+======= Country =======
+ID: cid-cia-Lebanon
+Continent: Asia
+Name: Lebanon
+Datacode: LE
+Population: 3776317
+Population growth: 2.16
+Infant mortality: 36.7
+Gdp agri: 13
+Inflation: 9
+Gdp total: 18300
+Indep date: 22 11 1943
+Government: republic
+Capital: Beirut
+======================
+======= Country =======
+ID: cid-cia-Macau
+Continent: Asia
+Name: Macau
+Datacode: MC
+Population: 496837
+Population growth: 1.15
+Infant mortality: 5.3
+Gdp agri: 
+Inflation: 8.6
+Gdp total: 6400
+Indep date: 
+Government: overseas territory of Portugal scheduled to revert to China in 1999
+Capital: Macau
+======================
+======= Country =======
+ID: cid-cia-Malaysia
+Continent: Asia
+Name: Malaysia
+Datacode: MY
+Population: 19962893
+Population growth: 2.07
+Infant mortality: 24
+Gdp agri: 8
+Inflation: 5.3
+Gdp total: 193600
+Indep date: 31 08 1957
+Government: constitutional monarchy
+Capital: Kuala Lumpur
+======================
+======= Country =======
+ID: cid-cia-Maldives
+Continent: Asia
+Name: Maldives
+Datacode: MV
+Population: 270758
+Population growth: 3.52
+Infant mortality: 47
+Gdp agri: 21.5
+Inflation: 16.5
+Gdp total: 390
+Indep date: 26 07 1965
+Government: republic
+Capital: Male
+======================
+======= Country =======
+ID: cid-cia-Mongolia
+Continent: Asia
+Name: Mongolia
+Datacode: MG
+Population: 2496617
+Population growth: 1.69
+Infant mortality: 69.7
+Gdp agri: 28
+Inflation: 53
+Gdp total: 4900
+Indep date: 13 03 1921
+Government: republic
+Capital: Ulaanbaatar
+======================
+======= Country =======
+ID: cid-cia-Nepal
+Continent: Asia
+Name: Nepal
+Datacode: NP
+Population: 22094033
+Population growth: 2.45
+Infant mortality: 79
+Gdp agri: 49.3
+Inflation: 6.7
+Gdp total: 25200
+Indep date: 01 01 1768
+Government: parliamentary democracy as of 12 May 1991
+Capital: Kathmandu
+======================
+======= Country =======
+ID: cid-cia-Oman
+Continent: Asia
+Name: Oman
+Datacode: MU
+Population: 2186548
+Population growth: 3.53
+Infant mortality: 27.3
+Gdp agri: 3
+Inflation: -0.7
+Gdp total: 19100
+Indep date: 01 01 1650
+Government: monarchy
+Capital: Muscat
+======================
+======= Country =======
+ID: cid-cia-Pakistan
+Continent: Asia
+Name: Pakistan
+Datacode: PK
+Population: 129275660
+Population growth: 2.24
+Infant mortality: 96.8
+Gdp agri: 24
+Inflation: 13
+Gdp total: 274200
+Indep date: 14 08 1947
+Government: republic
+Capital: Islamabad
+======================
+======= Country =======
+ID: cid-cia-Papua-New-Guinea
+Continent: Asia
+Name: Papua New Guinea
+Datacode: PP
+Population: 4394537
+Population growth: 2.29
+Infant mortality: 60.1
+Gdp agri: 
+Inflation: 15
+Gdp total: 10200
+Indep date: 16 09 1975
+Government: parliamentary democracy
+Capital: Port Moresby
+======================
+======= Country =======
+ID: cid-cia-Paracel-Islands
+Continent: Asia
+Name: Paracel Islands
+Datacode: PF
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: 
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Philippines
+Continent: Asia
+Name: Philippines
+Datacode: RP
+Population: 74480848
+Population growth: 2.18
+Infant mortality: 35.9
+Gdp agri: 22
+Inflation: 8.1
+Gdp total: 179700
+Indep date: 04 07 1946
+Government: republic
+Capital: Manila
+======================
+======= Country =======
+ID: cid-cia-Qatar
+Continent: Asia
+Name: Qatar
+Datacode: QA
+Population: 547761
+Population growth: 2.39
+Infant mortality: 19.6
+Gdp agri: 1
+Inflation: 3
+Gdp total: 10700
+Indep date: 03 09 1971
+Government: traditional monarchy
+Capital: Doha
+======================
+======= Country =======
+ID: cid-cia-Russia
+Continent: Asia
+Name: Russia
+Datacode: RS
+Population: 148178487
+Population growth: -0.07
+Infant mortality: 24.7
+Gdp agri: 6
+Inflation: 7
+Gdp total: 796000
+Indep date: 24 08 1991
+Government: federation
+Capital: Moscow
+======================
+======= Country =======
+ID: cid-cia-Saudi-Arabia
+Continent: Asia
+Name: Saudi Arabia
+Datacode: SA
+Population: 19409058
+Population growth: 3.45
+Infant mortality: 46.4
+Gdp agri: 9
+Inflation: 5
+Gdp total: 189300
+Indep date: 23 09 1932
+Government: monarchy
+Capital: Riyadh
+======================
+======= Country =======
+ID: cid-cia-Singapore
+Continent: Asia
+Name: Singapore
+Datacode: SN
+Population: 3396924
+Population growth: 1.9
+Infant mortality: 4.7
+Gdp agri: 
+Inflation: 1.7
+Gdp total: 66100
+Indep date: 09 08 1965
+Government: republic within Commonwealth
+Capital: Singapore
+======================
+======= Country =======
+ID: cid-cia-Spratly-Islands
+Continent: Asia
+Name: Spratly Islands
+Datacode: PG
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: 
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Sri-Lanka
+Continent: Asia
+Name: Sri Lanka
+Datacode: CE
+Population: 18553074
+Population growth: 1.13
+Infant mortality: 20.8
+Gdp agri: 24
+Inflation: 8.4
+Gdp total: 65600
+Indep date: 04 02 1948
+Government: republic
+Capital: Colombo
+======================
+======= Country =======
+ID: cid-cia-Syria
+Continent: Asia
+Name: Syria
+Datacode: SY
+Population: 15608648
+Population growth: 3.37
+Infant mortality: 40
+Gdp agri: 30
+Inflation: 15.1
+Gdp total: 91200
+Indep date: 17 04 1946
+Government: republic under military regime since March 1963
+Capital: Damascus
+======================
+======= Country =======
+ID: cid-cia-Taiwan
+Continent: Asia
+Name: Taiwan
+Datacode: TW
+Population: 21465881
+Population growth: 0.89
+Infant mortality: 7
+Gdp agri: 3.6
+Inflation: 4
+Gdp total: 290500
+Indep date: 
+Government: multiparty democratic regime
+Capital: Taipei
+======================
+======= Country =======
+ID: cid-cia-Tajikistan
+Continent: Asia
+Name: Tajikistan
+Datacode: TI
+Population: 5916373
+Population growth: 1.54
+Infant mortality: 113.1
+Gdp agri: 
+Inflation: 28
+Gdp total: 6400
+Indep date: 09 09 1991
+Government: republic
+Capital: Dushanbe
+======================
+======= Country =======
+ID: cid-cia-Thailand
+Continent: Asia
+Name: Thailand
+Datacode: TH
+Population: 58851357
+Population growth: 1.03
+Infant mortality: 33.4
+Gdp agri: 10.2
+Inflation: 5.8
+Gdp total: 416700
+Indep date: 01 01 1238
+Government: constitutional monarchy
+Capital: Bangkok
+======================
+======= Country =======
+ID: cid-cia-Turkey
+Continent: Asia
+Name: Turkey
+Datacode: TU
+Population: 62484478
+Population growth: 1.67
+Infant mortality: 43.2
+Gdp agri: 15.5
+Inflation: 94
+Gdp total: 345700
+Indep date: 29 10 1923
+Government: republican parliamentary democracy
+Capital: Ankara
+======================
+======= Country =======
+ID: cid-cia-Turkmenistan
+Continent: Asia
+Name: Turkmenistan
+Datacode: TX
+Population: 4149283
+Population growth: 1.82
+Infant mortality: 81.6
+Gdp agri: 32.5
+Inflation: 25
+Gdp total: 11500
+Indep date: 27 10 1991
+Government: republic
+Capital: Ashgabat
+======================
+======= Country =======
+ID: cid-cia-United-Arab-Emirates
+Continent: Asia
+Name: United Arab Emirates
+Datacode: TC
+Population: 3057337
+Population growth: 4.33
+Infant mortality: 20.4
+Gdp agri: 2
+Inflation: 4.6
+Gdp total: 70100
+Indep date: 02 12 1971
+Government: federation with specified powers delegated to the UAE central government and other powers reserved to member emirates
+Capital: Abu Dhabi
+======================
+======= Country =======
+ID: cid-cia-Uzbekistan
+Continent: Asia
+Name: Uzbekistan
+Datacode: UZ
+Population: 23418381
+Population growth: 1.87
+Infant mortality: 79.6
+Gdp agri: 
+Inflation: 7.7
+Gdp total: 54700
+Indep date: 31 08 1991
+Government: republic
+Capital: Tashkent
+======================
+======= Country =======
+ID: cid-cia-Vietnam
+Continent: Asia
+Name: Vietnam
+Datacode: VM
+Population: 73976973
+Population growth: 1.57
+Infant mortality: 38.4
+Gdp agri: 28
+Inflation: 14
+Gdp total: 97000
+Indep date: 02 09 1945
+Government: Communist state
+Capital: Hanoi
+======================
+======= Country =======
+ID: cid-cia-West-Bank
+Continent: Asia
+Name: West Bank
+Datacode: WE
+Population: 1427741
+Population growth: 4.99
+Infant mortality: 28.6
+Gdp agri: 33
+Inflation: 14
+Gdp total: 3700
+Indep date: 
+Government: 
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Yemen
+Continent: Asia
+Name: Yemen
+Datacode: YM
+Population: 13483178
+Population growth: 3.56
+Infant mortality: 71.5
+Gdp agri: 21
+Inflation: 71.3
+Gdp total: 37100
+Indep date: 22 05 1990
+Government: republic
+Capital: Sanaa
+======================
+======================
+
+====== Continent =======
+ID: australia
+Name: Australia/Oceania
+
+Countries: 
+======= Country =======
+ID: cid-cia-American-Samoa
+Continent: Australia/Oceania
+Name: American Samoa
+Datacode: AQ
+Population: 59566
+Population growth: 3.77
+Infant mortality: 18.78
+Gdp agri: 
+Inflation: 
+Gdp total: 128
+Indep date: 
+Government: unincorporated and unorganized territory of the US
+Capital: Pago Pago
+======================
+======= Country =======
+ID: cid-cia-Australia
+Continent: Australia/Oceania
+Name: Australia
+Datacode: AS
+Population: 18260863
+Population growth: 0.99
+Infant mortality: 5.5
+Gdp agri: 3.1
+Inflation: 4.75
+Gdp total: 405400
+Indep date: 01 01 1901
+Government: federal parliamentary state
+Capital: Canberra
+======================
+======= Country =======
+ID: cid-cia-Baker-Island
+Continent: Australia/Oceania
+Name: Baker Island
+Datacode: FQ
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: unincorporated territory of the US administered by the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge system
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Cook-Islands
+Continent: Australia/Oceania
+Name: Cook Islands
+Datacode: CW
+Population: 19561
+Population growth: 1.11
+Infant mortality: 24.7
+Gdp agri: 
+Inflation: 6.2
+Gdp total: 57
+Indep date: 
+Government: self governing parliamentary government in free association with New Zealand
+Capital: Avarua
+======================
+======= Country =======
+ID: cid-cia-Coral-Sea-Islands
+Continent: Australia/Oceania
+Name: Coral Sea Islands
+Datacode: CR
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Australia administered by the Ministry for Environment
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Fiji
+Continent: Australia/Oceania
+Name: Fiji
+Datacode: FJ
+Population: 782381
+Population growth: 1.28
+Infant mortality: 17.4
+Gdp agri: 22
+Inflation: 2
+Gdp total: 4700
+Indep date: 10 10 1970
+Government: republic
+Capital: Suva
+======================
+======= Country =======
+ID: cid-cia-French-Polynesia
+Continent: Australia/Oceania
+Name: French Polynesia
+Datacode: FP
+Population: 224911
+Population growth: 2.19
+Infant mortality: 14.4
+Gdp agri: 4
+Inflation: 1.5
+Gdp total: 1760
+Indep date: 
+Government: overseas territory of France since 1946
+Capital: Papeete
+======================
+======= Country =======
+ID: cid-cia-Guam
+Continent: Australia/Oceania
+Name: Guam
+Datacode: GQ
+Population: 156974
+Population growth: 2.34
+Infant mortality: 15.17
+Gdp agri: 
+Inflation: 4
+Gdp total: 2000
+Indep date: 
+Government: organized
+Capital: Agana
+======================
+======= Country =======
+ID: cid-cia-Howland-Island
+Continent: Australia/Oceania
+Name: Howland Island
+Datacode: HQ
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: unincorporated territory of the US administered by the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge System
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Jarvis-Island
+Continent: Australia/Oceania
+Name: Jarvis Island
+Datacode: DQ
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: unincorporated territory of the US administered by the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge System
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Johnston-Atoll
+Continent: Australia/Oceania
+Name: Johnston Atoll
+Datacode: JQ
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: unincorporated territory of the US administered by the US Defense Nuclear Agency and managed cooperatively by DNA and the Fish and Wildlife Service of the US Department of the Interior as part of the National Wildlife Refuge system
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Kingman-Reef
+Continent: Australia/Oceania
+Name: Kingman Reef
+Datacode: KQ
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: unincorporated territory of the US administered by the US Navy
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Kiribati
+Continent: Australia/Oceania
+Name: Kiribati
+Datacode: KR
+Population: 80919
+Population growth: 1.89
+Infant mortality: 52.9
+Gdp agri: 
+Inflation: 5.5
+Gdp total: 68
+Indep date: 12 07 1979
+Government: republic
+Capital: Tarawa
+======================
+======= Country =======
+ID: cid-cia-Marshall-Islands
+Continent: Australia/Oceania
+Name: Marshall Islands
+Datacode: RM
+Population: 58363
+Population growth: 3.85
+Infant mortality: 46.9
+Gdp agri: 
+Inflation: 4
+Gdp total: 94
+Indep date: 21 10 1986
+Government: constitutional government in free association with the US
+Capital: Majuro
+======================
+======= Country =======
+ID: cid-cia-Micronesia
+Continent: Australia/Oceania
+Name: Micronesia
+Datacode: FM
+Population: 125377
+Population growth: 3.34
+Infant mortality: 35.8
+Gdp agri: 
+Inflation: 4
+Gdp total: 205
+Indep date: 03 11 1986
+Government: constitutional government in free association with the US
+Capital: Kolonia
+======================
+======= Country =======
+ID: cid-cia-Midway-Islands
+Continent: Australia/Oceania
+Name: Midway Islands
+Datacode: MQ
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: unincorporated territory of the US formerly administered by the US Navy
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Nauru
+Continent: Australia/Oceania
+Name: Nauru
+Datacode: NR
+Population: 10273
+Population growth: 1.33
+Infant mortality: 40.6
+Gdp agri: 
+Inflation: -3.6
+Gdp total: 100
+Indep date: 31 01 1968
+Government: republic
+Capital: no official capital
+======================
+======= Country =======
+ID: cid-cia-New-Caledonia
+Continent: Australia/Oceania
+Name: New Caledonia
+Datacode: NC
+Population: 187784
+Population growth: 1.72
+Infant mortality: 13.8
+Gdp agri: 5
+Inflation: 1.4
+Gdp total: 1500
+Indep date: 
+Government: overseas territory of France since 1956
+Capital: Noumea
+======================
+======= Country =======
+ID: cid-cia-New-Zealand
+Continent: Australia/Oceania
+Name: New Zealand
+Datacode: NZ
+Population: 3547983
+Population growth: 1.12
+Infant mortality: 6.7
+Gdp agri: 7.3
+Inflation: 2
+Gdp total: 62300
+Indep date: 26 09 1907
+Government: parliamentary democracy
+Capital: Wellington
+======================
+======= Country =======
+ID: cid-cia-Niue
+Continent: Australia/Oceania
+Name: Niue
+Datacode: NE
+Population: 2174
+Population growth: -0.62
+Infant mortality: 
+Gdp agri: 
+Inflation: 5
+Gdp total: 2.4
+Indep date: 19 10 1974
+Government: self governing territory in free association with New Zealand
+Capital: Alofi
+======================
+======= Country =======
+ID: cid-cia-Norfolk-Island
+Continent: Australia/Oceania
+Name: Norfolk Island
+Datacode: NF
+Population: 2209
+Population growth: -0.68
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Australia
+Capital: Kingston
+======================
+======= Country =======
+ID: cid-cia-Northern-Mariana-Islands
+Continent: Australia/Oceania
+Name: Northern Mariana Islands
+Datacode: CQ
+Population: 52284
+Population growth: 3.04
+Infant mortality: 37.96
+Gdp agri: 
+Inflation: 6.5
+Gdp total: 524
+Indep date: 
+Government: commonwealth in political union with the US
+Capital: Saipan
+======================
+======= Country =======
+ID: cid-cia-Palau
+Continent: Australia/Oceania
+Name: Palau
+Datacode: PS
+Population: 16952
+Population growth: 1.71
+Infant mortality: 25.07
+Gdp agri: 
+Inflation: 
+Gdp total: 81.8
+Indep date: 01 10 1994
+Government: constitutional government in free association with the US
+Capital: Koror
+======================
+======= Country =======
+ID: cid-cia-Palmyra-Atoll
+Continent: Australia/Oceania
+Name: Palmyra Atoll
+Datacode: LQ
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: incorporated territory of the US
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Pitcairn-Islands
+Continent: Australia/Oceania
+Name: Pitcairn Islands
+Datacode: PC
+Population: 56
+Population growth: 0
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: dependent territory of the UK
+Capital: Adamstown
+======================
+======= Country =======
+ID: cid-cia-Solomon-Islands
+Continent: Australia/Oceania
+Name: Solomon Islands
+Datacode: BP
+Population: 412902
+Population growth: 3.35
+Infant mortality: 25.8
+Gdp agri: 
+Inflation: 13
+Gdp total: 1000
+Indep date: 07 07 1978
+Government: parliamentary democracy
+Capital: Honiara
+======================
+======= Country =======
+ID: cid-cia-Tokelau
+Continent: Australia/Oceania
+Name: Tokelau
+Datacode: TL
+Population: 1482
+Population growth: -1.35
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 1.5
+Indep date: 
+Government: territory of New Zealand
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Tonga
+Continent: Australia/Oceania
+Name: Tonga
+Datacode: TN
+Population: 106466
+Population growth: 0.82
+Infant mortality: 40.26
+Gdp agri: 40
+Inflation: 3
+Gdp total: 228
+Indep date: 04 06 1970
+Government: hereditary constitutional monarchy
+Capital: Nukualofa
+======================
+======= Country =======
+ID: cid-cia-Tuvalu
+Continent: Australia/Oceania
+Name: Tuvalu
+Datacode: TV
+Population: 10146
+Population growth: 1.51
+Infant mortality: 27.6
+Gdp agri: 
+Inflation: 2.9
+Gdp total: 7.8
+Indep date: 01 10 1978
+Government: democracy
+Capital: Funafuti
+======================
+======= Country =======
+ID: cid-cia-Vanuatu
+Continent: Australia/Oceania
+Name: Vanuatu
+Datacode: NH
+Population: 177504
+Population growth: 2.17
+Infant mortality: 64.6
+Gdp agri: 
+Inflation: 7
+Gdp total: 210
+Indep date: 30 07 1980
+Government: republic
+Capital: Port Vila
+======================
+======= Country =======
+ID: cid-cia-Wake-Island
+Continent: Australia/Oceania
+Name: Wake Island
+Datacode: WQ
+Population: 0
+Population growth: 0
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: unincorporated territory of the US administered by the US Army and Strategic Defense Command since 1 October 1994
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Wallis-and-Futuna
+Continent: Australia/Oceania
+Name: Wallis and Futuna
+Datacode: WF
+Population: 14659
+Population growth: 1.11
+Infant mortality: 23.59
+Gdp agri: 
+Inflation: 
+Gdp total: 28.7
+Indep date: 
+Government: overseas territory of France
+Capital: Mata Utu
+======================
+======= Country =======
+ID: cid-cia-Western-Samoa
+Continent: Australia/Oceania
+Name: Western Samoa
+Datacode: WS
+Population: 214384
+Population growth: 2.37
+Infant mortality: 34.3
+Gdp agri: 50
+Inflation: 18
+Gdp total: 415
+Indep date: 01 01 1962
+Government: constitutional monarchy under native chief
+Capital: Apia
+======================
+======================
+
+====== Continent =======
+ID: europe
+Name: Europe
+
+Countries: 
+======= Country =======
+ID: cid-cia-Albania
+Continent: Europe
+Name: Albania
+Datacode: AL
+Population: 3249136
+Population growth: 1.34
+Infant mortality: 49.2
+Gdp agri: 55
+Inflation: 16
+Gdp total: 4100
+Indep date: 28 11 1912
+Government: emerging democracy
+Capital: Tirane
+======================
+======= Country =======
+ID: cid-cia-Andorra
+Continent: Europe
+Name: Andorra
+Datacode: AN
+Population: 72766
+Population growth: 2.96
+Infant mortality: 2.2
+Gdp agri: 
+Inflation: 
+Gdp total: 1000
+Indep date: 
+Government: parliamentary democracy that retains as its heads of state a coprincipality
+Capital: Andorra la Vella
+======================
+======= Country =======
+ID: cid-cia-Austria
+Continent: Europe
+Name: Austria
+Datacode: AU
+Population: 8023244
+Population growth: 0.41
+Infant mortality: 6.2
+Gdp agri: 2
+Inflation: 2.3
+Gdp total: 152000
+Indep date: 12 11 1918
+Government: federal republic
+Capital: Vienna
+======================
+======= Country =======
+ID: cid-cia-Belarus
+Continent: Europe
+Name: Belarus
+Datacode: BO
+Population: 10415973
+Population growth: 0.2
+Infant mortality: 13.4
+Gdp agri: 21
+Inflation: 244
+Gdp total: 49200
+Indep date: 25 08 1991
+Government: republic
+Capital: Minsk
+======================
+======= Country =======
+ID: cid-cia-Belgium
+Continent: Europe
+Name: Belgium
+Datacode: BE
+Population: 10170241
+Population growth: 0.33
+Infant mortality: 6.4
+Gdp agri: 2
+Inflation: 1.6
+Gdp total: 197000
+Indep date: 04 10 1830
+Government: constitutional monarchy
+Capital: Brussels
+======================
+======= Country =======
+ID: cid-cia-Bosnia-and-Herzegovina
+Continent: Europe
+Name: Bosnia and Herzegovina
+Datacode: BK
+Population: 2656240
+Population growth: -2.84
+Infant mortality: 43.2
+Gdp agri: 
+Inflation: 
+Gdp total: 1000
+Indep date: 01 04 1992
+Government: emerging democracy
+Capital: Sarajevo
+======================
+======= Country =======
+ID: cid-cia-Bulgaria
+Continent: Europe
+Name: Bulgaria
+Datacode: BU
+Population: 8612757
+Population growth: 0.46
+Infant mortality: 15.7
+Gdp agri: 12
+Inflation: 35
+Gdp total: 43200
+Indep date: 22 09 1908
+Government: emerging democracy
+Capital: Sofia
+======================
+======= Country =======
+ID: cid-cia-Croatia
+Continent: Europe
+Name: Croatia
+Datacode: HR
+Population: 5004112
+Population growth: 0.58
+Infant mortality: 10.2
+Gdp agri: 12.7
+Inflation: 3.7
+Gdp total: 20100
+Indep date: 25 06 1991
+Government: parliamentary democracy
+Capital: Zagreb
+======================
+======= Country =======
+ID: cid-cia-Czech-Republic
+Continent: Europe
+Name: Czech Republic
+Datacode: EZ
+Population: 10321120
+Population growth: -0.03
+Infant mortality: 8.4
+Gdp agri: 5.8
+Inflation: 9.1
+Gdp total: 106200
+Indep date: 01 01 1993
+Government: parliamentary democracy
+Capital: Prague
+======================
+======= Country =======
+ID: cid-cia-Denmark
+Continent: Europe
+Name: Denmark
+Datacode: DA
+Population: 5249632
+Population growth: 0.38
+Infant mortality: 4.8
+Gdp agri: 3
+Inflation: 2.4
+Gdp total: 112800
+Indep date: 
+Government: constitutional monarchy
+Capital: Copenhagen
+======================
+======= Country =======
+ID: cid-cia-Estonia
+Continent: Europe
+Name: Estonia
+Datacode: EN
+Population: 1459428
+Population growth: -1.13
+Infant mortality: 17.4
+Gdp agri: 10
+Inflation: 29
+Gdp total: 12300
+Indep date: 06 09 1991
+Government: republic
+Capital: Tallinn
+======================
+======= Country =======
+ID: cid-cia-Faroe-Islands
+Continent: Europe
+Name: Faroe Islands
+Datacode: FO
+Population: 43857
+Population growth: -1.8
+Infant mortality: 7.2
+Gdp agri: 
+Inflation: 6.8
+Gdp total: 733
+Indep date: 
+Government: part of the Danish realm
+Capital: Torshavn
+======================
+======= Country =======
+ID: cid-cia-Finland
+Continent: Europe
+Name: Finland
+Datacode: FI
+Population: 5105230
+Population growth: 0.1
+Infant mortality: 4.9
+Gdp agri: 4.6
+Inflation: 2
+Gdp total: 92400
+Indep date: 06 12 1917
+Government: republic
+Capital: Helsinki
+======================
+======= Country =======
+ID: cid-cia-France
+Continent: Europe
+Name: France
+Datacode: FR
+Population: 58317450
+Population growth: 0.34
+Infant mortality: 5.3
+Gdp agri: 2.4
+Inflation: 1.7
+Gdp total: 1173000
+Indep date: 
+Government: republic
+Capital: Paris
+======================
+======= Country =======
+ID: cid-cia-Germany
+Continent: Europe
+Name: Germany
+Datacode: GM
+Population: 83536115
+Population growth: 0.67
+Infant mortality: 6
+Gdp agri: 1
+Inflation: 
+Gdp total: 1452200
+Indep date: 18 01 1871
+Government: federal republic
+Capital: Berlin
+======================
+======= Country =======
+ID: cid-cia-Gibraltar
+Continent: Europe
+Name: Gibraltar
+Datacode: GI
+Population: 28765
+Population growth: 0.54
+Infant mortality: 6.9
+Gdp agri: 
+Inflation: 
+Gdp total: 205
+Indep date: 
+Government: dependent territory of the UK
+Capital: Gibraltar
+======================
+======= Country =======
+ID: cid-cia-Greece
+Continent: Europe
+Name: Greece
+Datacode: GR
+Population: 10538594
+Population growth: 0.42
+Infant mortality: 7.4
+Gdp agri: 11.8
+Inflation: 8.1
+Gdp total: 101700
+Indep date: 01 01 1829
+Government: parliamentary republic
+Capital: Athens
+======================
+======= Country =======
+ID: cid-cia-Guernsey
+Continent: Europe
+Name: Guernsey
+Datacode: GK
+Population: 62920
+Population growth: 1.28
+Infant mortality: 9.2
+Gdp agri: 
+Inflation: 7
+Gdp total: 
+Indep date: 
+Government: British crown dependency
+Capital: Saint Peter Port
+======================
+======= Country =======
+ID: cid-cia-Holy-See
+Continent: Europe
+Name: Holy See
+Datacode: VT
+Population: 840
+Population growth: 1.15
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 11 02 1929
+Government: monarchical sacerdotal state
+Capital: Vatican City
+======================
+======= Country =======
+ID: cid-cia-Hungary
+Continent: Europe
+Name: Hungary
+Datacode: HU
+Population: 10002541
+Population growth: -0.68
+Infant mortality: 12.3
+Gdp agri: 7.3
+Inflation: 28.3
+Gdp total: 72500
+Indep date: 01 01 1001
+Government: republic
+Capital: Budapest
+======================
+======= Country =======
+ID: cid-cia-Iceland
+Continent: Europe
+Name: Iceland
+Datacode: IC
+Population: 270292
+Population growth: 0.83
+Infant mortality: 4.3
+Gdp agri: 9.6
+Inflation: 2.5
+Gdp total: 5000
+Indep date: 17 06 1944
+Government: republic
+Capital: Reykjavik
+======================
+======= Country =======
+ID: cid-cia-Ireland
+Continent: Europe
+Name: Ireland
+Datacode: EI
+Population: 3566833
+Population growth: -0.22
+Infant mortality: 6.4
+Gdp agri: 6.8
+Inflation: 2.8
+Gdp total: 54600
+Indep date: 06 12 1921
+Government: republic
+Capital: Dublin
+======================
+======= Country =======
+ID: cid-cia-Italy
+Continent: Europe
+Name: Italy
+Datacode: IT
+Population: 57460274
+Population growth: 0.13
+Infant mortality: 6.9
+Gdp agri: 2.9
+Inflation: 5.4
+Gdp total: 1088600
+Indep date: 17 03 1861
+Government: republic
+Capital: Rome
+======================
+======= Country =======
+ID: cid-cia-Jan-Mayen
+Continent: Europe
+Name: Jan Mayen
+Datacode: JN
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Norway
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Jersey
+Continent: Europe
+Name: Jersey
+Datacode: JE
+Population: 87848
+Population growth: 0.77
+Infant mortality: 2.7
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: British crown dependency
+Capital: Saint Helier
+======================
+======= Country =======
+ID: cid-cia-Latvia
+Continent: Europe
+Name: Latvia
+Datacode: LG
+Population: 2468982
+Population growth: -1.39
+Infant mortality: 21.2
+Gdp agri: 9
+Inflation: 20
+Gdp total: 14700
+Indep date: 06 09 1991
+Government: republic
+Capital: Riga
+======================
+======= Country =======
+ID: cid-cia-Liechtenstein
+Continent: Europe
+Name: Liechtenstein
+Datacode: LS
+Population: 31122
+Population growth: 1.08
+Infant mortality: 5.3
+Gdp agri: 
+Inflation: 5.4
+Gdp total: 630
+Indep date: 23 01 1719
+Government: hereditary constitutional monarchy
+Capital: Vaduz
+======================
+======= Country =======
+ID: cid-cia-Lithuania
+Continent: Europe
+Name: Lithuania
+Datacode: LH
+Population: 3646041
+Population growth: -0.35
+Infant mortality: 17
+Gdp agri: 20
+Inflation: 35
+Gdp total: 13300
+Indep date: 06 09 1991
+Government: republic
+Capital: Vilnius
+======================
+======= Country =======
+ID: cid-cia-Luxembourg
+Continent: Europe
+Name: Luxembourg
+Datacode: LU
+Population: 415870
+Population growth: 1.57
+Infant mortality: 4.7
+Gdp agri: 1.4
+Inflation: 3.6
+Gdp total: 10000
+Indep date: 
+Government: constitutional monarchy
+Capital: Luxembourg
+======================
+======= Country =======
+ID: cid-cia-Macedonia
+Continent: Europe
+Name: Macedonia
+Datacode: MK
+Population: 2104035
+Population growth: 0.46
+Infant mortality: 29.7
+Gdp agri: 24
+Inflation: 14.8
+Gdp total: 1900
+Indep date: 17 09 1991
+Government: emerging democracy
+Capital: Skopje
+======================
+======= Country =======
+ID: cid-cia-Malta
+Continent: Europe
+Name: Malta
+Datacode: MT
+Population: 375576
+Population growth: 1.01
+Infant mortality: 6.9
+Gdp agri: 
+Inflation: 5
+Gdp total: 4400
+Indep date: 21 09 1964
+Government: parliamentary democracy
+Capital: Valletta
+======================
+======= Country =======
+ID: cid-cia-Man
+Continent: Europe
+Name: Man
+Datacode: IM
+Population: 73837
+Population growth: 0.94
+Infant mortality: 2.4
+Gdp agri: 
+Inflation: 7
+Gdp total: 780
+Indep date: 
+Government: British crown dependency
+Capital: Douglas
+======================
+======= Country =======
+ID: cid-cia-Moldova
+Continent: Europe
+Name: Moldova
+Datacode: MD
+Population: 4463847
+Population growth: 0.18
+Infant mortality: 47.6
+Gdp agri: 33
+Inflation: 24
+Gdp total: 10400
+Indep date: 27 08 1991
+Government: republic
+Capital: Chisinau
+======================
+======= Country =======
+ID: cid-cia-Monaco
+Continent: Europe
+Name: Monaco
+Datacode: MN
+Population: 31719
+Population growth: 0.59
+Infant mortality: 6.9
+Gdp agri: 
+Inflation: 
+Gdp total: 788
+Indep date: 01 01 1419
+Government: constitutional monarchy
+Capital: Monaco
+======================
+======= Country =======
+ID: cid-cia-Netherlands
+Continent: Europe
+Name: Netherlands
+Datacode: NL
+Population: 15568034
+Population growth: 0.56
+Infant mortality: 4.9
+Gdp agri: 3.4
+Inflation: 2.25
+Gdp total: 301900
+Indep date: 01 01 1579
+Government: constitutional monarchy
+Capital: Amsterdam
+======================
+======= Country =======
+ID: cid-cia-Norway
+Continent: Europe
+Name: Norway
+Datacode: NO
+Population: 4383807
+Population growth: 0.48
+Infant mortality: 4.9
+Gdp agri: 2.9
+Inflation: 2.5
+Gdp total: 106200
+Indep date: 26 10 1905
+Government: constitutional monarchy
+Capital: Oslo
+======================
+======= Country =======
+ID: cid-cia-Poland
+Continent: Europe
+Name: Poland
+Datacode: PL
+Population: 38642565
+Population growth: 0.14
+Infant mortality: 12.4
+Gdp agri: 7
+Inflation: 21.6
+Gdp total: 226700
+Indep date: 11 11 1918
+Government: democratic state
+Capital: Warsaw
+======================
+======= Country =======
+ID: cid-cia-Portugal
+Continent: Europe
+Name: Portugal
+Datacode: PO
+Population: 9865114
+Population growth: 0.02
+Infant mortality: 7.6
+Gdp agri: 6
+Inflation: 4.6
+Gdp total: 116200
+Indep date: 01 01 1140
+Government: republic
+Capital: Lisbon
+======================
+======= Country =======
+ID: cid-cia-Romania
+Continent: Europe
+Name: Romania
+Datacode: RO
+Population: 21657162
+Population growth: -1.21
+Infant mortality: 23.2
+Gdp agri: 19.6
+Inflation: 25
+Gdp total: 105700
+Indep date: 01 01 1881
+Government: republic
+Capital: Bucharest
+======================
+======= Country =======
+ID: cid-cia-San-Marino
+Continent: Europe
+Name: San Marino
+Datacode: SM
+Population: 24521
+Population growth: 0.82
+Infant mortality: 5.5
+Gdp agri: 
+Inflation: 5.5
+Gdp total: 380
+Indep date: 01 01 0301
+Government: republic
+Capital: San Marino
+======================
+======= Country =======
+ID: cid-cia-Serbia-and-Montenegro
+Continent: Europe
+Name: Serbia and Montenegro
+Datacode: 
+Population: 10614558
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 20
+Gdp total: 20600
+Indep date: 11 04 1992
+Government: republic
+Capital: Belgrade
+======================
+======= Country =======
+ID: cid-cia-Slovakia
+Continent: Europe
+Name: Slovakia
+Datacode: LO
+Population: 5374362
+Population growth: 0.34
+Infant mortality: 10.7
+Gdp agri: 6.7
+Inflation: 7.5
+Gdp total: 39000
+Indep date: 01 01 1993
+Government: parliamentary democracy
+Capital: Bratislava
+======================
+======= Country =======
+ID: cid-cia-Slovenia
+Continent: Europe
+Name: Slovenia
+Datacode: SI
+Population: 1951443
+Population growth: -0.27
+Infant mortality: 7.3
+Gdp agri: 5.3
+Inflation: 8
+Gdp total: 22600
+Indep date: 25 06 1991
+Government: emerging democracy
+Capital: Ljubljana
+======================
+======= Country =======
+ID: cid-cia-Spain
+Continent: Europe
+Name: Spain
+Datacode: SP
+Population: 39181114
+Population growth: 0.16
+Infant mortality: 6.3
+Gdp agri: 3.6
+Inflation: 4.3
+Gdp total: 565000
+Indep date: 01 01 1492
+Government: parliamentary monarchy
+Capital: Madrid
+======================
+======= Country =======
+ID: cid-cia-Svalbard
+Continent: Europe
+Name: Svalbard
+Datacode: SV
+Population: 2715
+Population growth: -4.01
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: territory of Norway administered by the Ministry of Industry
+Capital: Longyearbyen
+======================
+======= Country =======
+ID: cid-cia-Sweden
+Continent: Europe
+Name: Sweden
+Datacode: SW
+Population: 8900954
+Population growth: 0.56
+Infant mortality: 4.5
+Gdp agri: 2
+Inflation: 2.6
+Gdp total: 177300
+Indep date: 
+Government: constitutional monarchy
+Capital: Stockholm
+======================
+======= Country =======
+ID: cid-cia-Switzerland
+Continent: Europe
+Name: Switzerland
+Datacode: SZ
+Population: 7207060
+Population growth: 0.59
+Infant mortality: 5.4
+Gdp agri: 3
+Inflation: 1.8
+Gdp total: 158500
+Indep date: 
+Government: federal republic
+Capital: Bern
+======================
+======= Country =======
+ID: cid-cia-Ukraine
+Continent: Europe
+Name: Ukraine
+Datacode: UP
+Population: 50864009
+Population growth: -0.4
+Infant mortality: 22.5
+Gdp agri: 31
+Inflation: 9
+Gdp total: 174600
+Indep date: 01 12 1991
+Government: republic
+Capital: Kiev
+======================
+======= Country =======
+ID: cid-cia-United-Kingdom
+Continent: Europe
+Name: United Kingdom
+Datacode: UK
+Population: 58489975
+Population growth: 0.22
+Infant mortality: 6.4
+Gdp agri: 1.7
+Inflation: 3.1
+Gdp total: 1138400
+Indep date: 01 01 1801
+Government: constitutional monarchy
+Capital: London
+======================
+======================
+
+====== Continent =======
+ID: northAmerica
+Name: North America
+
+Countries: 
+======= Country =======
+ID: cid-cia-Anguilla
+Continent: North America
+Name: Anguilla
+Datacode: AV
+Population: 10424
+Population growth: 3.45
+Infant mortality: 23
+Gdp agri: 
+Inflation: 4
+Gdp total: 53
+Indep date: 
+Government: dependent territory of the UK
+Capital: The Valley
+======================
+======= Country =======
+ID: cid-cia-Antigua-and-Barbuda
+Continent: North America
+Name: Antigua and Barbuda
+Datacode: AC
+Population: 65647
+Population growth: 0.76
+Infant mortality: 17.2
+Gdp agri: 3.5
+Inflation: 3.5
+Gdp total: 425
+Indep date: 01 11 1981
+Government: parliamentary democracy
+Capital: Saint Johns
+======================
+======= Country =======
+ID: cid-cia-Aruba
+Continent: North America
+Name: Aruba
+Datacode: AA
+Population: 67794
+Population growth: 0.31
+Infant mortality: 8.2
+Gdp agri: 
+Inflation: 6.1
+Gdp total: 1200
+Indep date: 
+Government: part of the Dutch realm
+Capital: Oranjestad
+======================
+======= Country =======
+ID: cid-cia-Bahamas
+Continent: North America
+Name: Bahamas
+Datacode: BF
+Population: 259367
+Population growth: 1.05
+Infant mortality: 23.3
+Gdp agri: 3
+Inflation: 1.5
+Gdp total: 4800
+Indep date: 10 07 1973
+Government: commonwealth
+Capital: Nassau
+======================
+======= Country =======
+ID: cid-cia-Barbados
+Continent: North America
+Name: Barbados
+Datacode: BB
+Population: 257030
+Population growth: 0.26
+Infant mortality: 18.7
+Gdp agri: 6.4
+Inflation: 1.7
+Gdp total: 2500
+Indep date: 30 11 1966
+Government: parliamentary democracy
+Capital: Bridgetown
+======================
+======= Country =======
+ID: cid-cia-Belize
+Continent: North America
+Name: Belize
+Datacode: BH
+Population: 219296
+Population growth: 2.42
+Infant mortality: 33.9
+Gdp agri: 30
+Inflation: 2.3
+Gdp total: 575
+Indep date: 21 09 1981
+Government: parliamentary democracy
+Capital: Belmopan
+======================
+======= Country =======
+ID: cid-cia-Bermuda
+Continent: North America
+Name: Bermuda
+Datacode: BD
+Population: 62099
+Population growth: 0.76
+Infant mortality: 13.16
+Gdp agri: 
+Inflation: 2.6
+Gdp total: 1700
+Indep date: 
+Government: dependent territory of the UK
+Capital: Hamilton
+======================
+======= Country =======
+ID: cid-cia-British-Virgin-Islands
+Continent: North America
+Name: British Virgin Islands
+Datacode: VI
+Population: 13195
+Population growth: 1.29
+Infant mortality: 19.16
+Gdp agri: 
+Inflation: 2.5
+Gdp total: 133
+Indep date: 
+Government: dependent territory of the UK
+Capital: Road Town
+======================
+======= Country =======
+ID: cid-cia-Canada
+Continent: North America
+Name: Canada
+Datacode: CA
+Population: 28820671
+Population growth: 1.06
+Infant mortality: 6.1
+Gdp agri: 2
+Inflation: 2.4
+Gdp total: 694000
+Indep date: 01 07 1867
+Government: confederation with parliamentary democracy
+Capital: Ottawa
+======================
+======= Country =======
+ID: cid-cia-Cayman-Islands
+Continent: North America
+Name: Cayman Islands
+Datacode: CJ
+Population: 34646
+Population growth: 4.27
+Infant mortality: 8.4
+Gdp agri: 1.4
+Inflation: 1.8
+Gdp total: 750
+Indep date: 
+Government: dependent territory of the UK
+Capital: George Town
+======================
+======= Country =======
+ID: cid-cia-Clipperton-Island
+Continent: North America
+Name: Clipperton Island
+Datacode: IP
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: French possession administered by France from French Polynesia by the High Commissioner of the Republic
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Costa-Rica
+Continent: North America
+Name: Costa Rica
+Datacode: CS
+Population: 3463083
+Population growth: 2.06
+Infant mortality: 13.5
+Gdp agri: 
+Inflation: 22.5
+Gdp total: 18400
+Indep date: 15 09 1821
+Government: democratic republic
+Capital: San Jose
+======================
+======= Country =======
+ID: cid-cia-Cuba
+Continent: North America
+Name: Cuba
+Datacode: CU
+Population: 10951334
+Population growth: 0.44
+Infant mortality: 9
+Gdp agri: 7
+Inflation: 
+Gdp total: 14700
+Indep date: 20 05 1902
+Government: Communist state
+Capital: Havana
+======================
+======= Country =======
+ID: cid-cia-Dominica
+Continent: North America
+Name: Dominica
+Datacode: DO
+Population: 82926
+Population growth: 0.38
+Infant mortality: 9.6
+Gdp agri: 26
+Inflation: 0.4
+Gdp total: 200
+Indep date: 03 11 1978
+Government: parliamentary democracy
+Capital: Roseau
+======================
+======= Country =======
+ID: cid-cia-Dominican-Republic
+Continent: North America
+Name: Dominican Republic
+Datacode: DR
+Population: 8088881
+Population growth: 1.73
+Infant mortality: 47.7
+Gdp agri: 13
+Inflation: 9.5
+Gdp total: 26800
+Indep date: 27 02 1844
+Government: republic
+Capital: Santo Domingo
+======================
+======= Country =======
+ID: cid-cia-El-Salvador
+Continent: North America
+Name: El Salvador
+Datacode: ES
+Population: 5828987
+Population growth: 1.81
+Infant mortality: 31.9
+Gdp agri: 
+Inflation: 11.4
+Gdp total: 11400
+Indep date: 15 09 1821
+Government: republic
+Capital: San Salvador
+======================
+======= Country =======
+ID: cid-cia-Greenland
+Continent: North America
+Name: Greenland
+Datacode: GL
+Population: 58203
+Population growth: 1
+Infant mortality: 23.8
+Gdp agri: 
+Inflation: 1.3
+Gdp total: 892
+Indep date: 
+Government: part of the Danish realm
+Capital: Nuuk
+======================
+======= Country =======
+ID: cid-cia-Grenada
+Continent: North America
+Name: Grenada
+Datacode: GJ
+Population: 94961
+Population growth: 0.55
+Infant mortality: 11.9
+Gdp agri: 10.2
+Inflation: 3
+Gdp total: 284
+Indep date: 07 02 1974
+Government: parliamentary democracy
+Capital: Saint Georges
+======================
+======= Country =======
+ID: cid-cia-Guadeloupe
+Continent: North America
+Name: Guadeloupe
+Datacode: GP
+Population: 407768
+Population growth: 1.2
+Infant mortality: 8.3
+Gdp agri: 6
+Inflation: 3.7
+Gdp total: 3700
+Indep date: 
+Government: overseas department of France
+Capital: Basse Terre
+======================
+======= Country =======
+ID: cid-cia-Guatemala
+Continent: North America
+Name: Guatemala
+Datacode: GT
+Population: 11277614
+Population growth: 2.48
+Infant mortality: 50.7
+Gdp agri: 25
+Inflation: 9
+Gdp total: 36700
+Indep date: 15 09 1821
+Government: republic
+Capital: Guatemala
+======================
+======= Country =======
+ID: cid-cia-Haiti
+Continent: North America
+Name: Haiti
+Datacode: HA
+Population: 6731539
+Population growth: 1.77
+Infant mortality: 103.8
+Gdp agri: 34.8
+Inflation: 14.5
+Gdp total: 6500
+Indep date: 01 01 1804
+Government: republic
+Capital: Port au Prince
+======================
+======= Country =======
+ID: cid-cia-Honduras
+Continent: North America
+Name: Honduras
+Datacode: HO
+Population: 5605193
+Population growth: 2.6
+Infant mortality: 41.8
+Gdp agri: 30
+Inflation: 30
+Gdp total: 10800
+Indep date: 15 09 1821
+Government: republic
+Capital: Tegucigalpa
+======================
+======= Country =======
+ID: cid-cia-Jamaica
+Continent: North America
+Name: Jamaica
+Datacode: JM
+Population: 2595275
+Population growth: 0.8
+Infant mortality: 15.6
+Gdp agri: 7.9
+Inflation: 25.5
+Gdp total: 8200
+Indep date: 06 08 1962
+Government: parliamentary democracy
+Capital: Kingston
+======================
+======= Country =======
+ID: cid-cia-Martinique
+Continent: North America
+Name: Martinique
+Datacode: MB
+Population: 399151
+Population growth: 1.1
+Infant mortality: 7.1
+Gdp agri: 6
+Inflation: 3.9
+Gdp total: 3950
+Indep date: 
+Government: overseas department of France
+Capital: Fort de France
+======================
+======= Country =======
+ID: cid-cia-Mexico
+Continent: North America
+Name: Mexico
+Datacode: MX
+Population: 95772462
+Population growth: 1.87
+Infant mortality: 25
+Gdp agri: 8.5
+Inflation: 52
+Gdp total: 721400
+Indep date: 16 09 1810
+Government: federal republic operating under a centralized government
+Capital: Mexico
+======================
+======= Country =======
+ID: cid-cia-Montserrat
+Continent: North America
+Name: Montserrat
+Datacode: MH
+Population: 12771
+Population growth: 0.28
+Infant mortality: 11.78
+Gdp agri: 4.8
+Inflation: 9.6
+Gdp total: 55.6
+Indep date: 
+Government: dependent territory of the UK
+Capital: Plymouth
+======================
+======= Country =======
+ID: cid-cia-Navassa-Island
+Continent: North America
+Name: Navassa Island
+Datacode: BQ
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: unincorporated territory of the US administered by the US Coast Guard
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Netherlands-Antilles
+Continent: North America
+Name: Netherlands Antilles
+Datacode: NT
+Population: 208968
+Population growth: 1.03
+Infant mortality: 8.9
+Gdp agri: 
+Inflation: 1.5
+Gdp total: 1920
+Indep date: 
+Government: part of the Dutch realm
+Capital: Willemstad
+======================
+======= Country =======
+ID: cid-cia-Nicaragua
+Continent: North America
+Name: Nicaragua
+Datacode: NU
+Population: 4272352
+Population growth: 2.67
+Infant mortality: 45.8
+Gdp agri: 
+Inflation: 11.4
+Gdp total: 7100
+Indep date: 15 09 1821
+Government: republic
+Capital: Managua
+======================
+======= Country =======
+ID: cid-cia-Panama
+Continent: North America
+Name: Panama
+Datacode: PM
+Population: 2655094
+Population growth: 1.64
+Infant mortality: 29.7
+Gdp agri: 10
+Inflation: 1.1
+Gdp total: 13600
+Indep date: 03 11 1903
+Government: constitutional republic
+Capital: Panama
+======================
+======= Country =======
+ID: cid-cia-Puerto-Rico
+Continent: North America
+Name: Puerto Rico
+Datacode: RQ
+Population: 3819023
+Population growth: 0.18
+Infant mortality: 12.4
+Gdp agri: 
+Inflation: 2.9
+Gdp total: 29700
+Indep date: 
+Government: commonwealth associated with the US
+Capital: San Juan
+======================
+======= Country =======
+ID: cid-cia-Saint-Kitts-and-Nevis
+Continent: North America
+Name: Saint Kitts and Nevis
+Datacode: SC
+Population: 41369
+Population growth: 0.98
+Infant mortality: 18.9
+Gdp agri: 6.2
+Inflation: -0.9
+Gdp total: 220
+Indep date: 19 09 1983
+Government: constitutional monarchy
+Capital: Basseterre
+======================
+======= Country =======
+ID: cid-cia-Saint-Lucia
+Continent: North America
+Name: Saint Lucia
+Datacode: ST
+Population: 157862
+Population growth: 1.14
+Infant mortality: 20
+Gdp agri: 13.8
+Inflation: 0.8
+Gdp total: 640
+Indep date: 22 02 1979
+Government: parliamentary democracy
+Capital: Castries
+======================
+======= Country =======
+ID: cid-cia-Saint-Pierre-and-Miquelon
+Continent: North America
+Name: Saint Pierre and Miquelon
+Datacode: SB
+Population: 6809
+Population growth: 0.77
+Infant mortality: 9.95
+Gdp agri: 
+Inflation: 
+Gdp total: 68
+Indep date: 
+Government: territorial collectivity of France
+Capital: Saint Pierre
+======================
+======= Country =======
+ID: cid-cia-Saint-Vincent-and-the-Grenadines
+Continent: North America
+Name: Saint Vincent and the Grenadines
+Datacode: VC
+Population: 118344
+Population growth: 0.64
+Infant mortality: 16.8
+Gdp agri: 24
+Inflation: -0.2
+Gdp total: 240
+Indep date: 27 10 1979
+Government: constitutional monarchy
+Capital: Kingstown
+======================
+======= Country =======
+ID: cid-cia-Trinidad-and-Tobago
+Continent: North America
+Name: Trinidad and Tobago
+Datacode: TD
+Population: 1272385
+Population growth: 0.08
+Infant mortality: 18.2
+Gdp agri: 4.8
+Inflation: 5.4
+Gdp total: 16200
+Indep date: 31 08 1962
+Government: parliamentary democracy
+Capital: Port of Spain
+======================
+======= Country =======
+ID: cid-cia-Turks-and-Caicos-Islands
+Continent: North America
+Name: Turks and Caicos Islands
+Datacode: TK
+Population: 14302
+Population growth: 2.14
+Infant mortality: 12.57
+Gdp agri: 
+Inflation: 
+Gdp total: 80.8
+Indep date: 
+Government: dependent territory of the UK
+Capital: Grand Turk
+======================
+======= Country =======
+ID: cid-cia-United-States
+Continent: North America
+Name: United States
+Datacode: US
+Population: 266476278
+Population growth: 0.91
+Infant mortality: 6.7
+Gdp agri: 2
+Inflation: 2.5
+Gdp total: 7247700
+Indep date: 04 07 1776
+Government: federal republic
+Capital: Washington
+======================
+======= Country =======
+ID: cid-cia-Virgin-Islands
+Continent: North America
+Name: Virgin Islands
+Datacode: VQ
+Population: 97120
+Population growth: -0.06
+Infant mortality: 12.54
+Gdp agri: 
+Inflation: 
+Gdp total: 1200
+Indep date: 
+Government: organized
+Capital: Charlotte Amalie
+======================
+======================
+
+====== Continent =======
+ID: southAmerica
+Name: South America
+
+Countries: 
+======= Country =======
+ID: cid-cia-Argentina
+Continent: South America
+Name: Argentina
+Datacode: AR
+Population: 34672997
+Population growth: 1.1
+Infant mortality: 28.3
+Gdp agri: 6
+Inflation: 1.7
+Gdp total: 278500
+Indep date: 09 07 1816
+Government: republic
+Capital: Buenos Aires
+======================
+======= Country =======
+ID: cid-cia-Bolivia
+Continent: South America
+Name: Bolivia
+Datacode: BL
+Population: 7165257
+Population growth: 1.82
+Infant mortality: 67.5
+Gdp agri: 
+Inflation: 12
+Gdp total: 20000
+Indep date: 06 08 1825
+Government: republic
+Capital: La Paz
+======================
+======= Country =======
+ID: cid-cia-Brazil
+Continent: South America
+Name: Brazil
+Datacode: BR
+Population: 162661214
+Population growth: 1.16
+Infant mortality: 55.3
+Gdp agri: 16
+Inflation: 23
+Gdp total: 976800
+Indep date: 07 09 1822
+Government: federal republic
+Capital: Brasilia
+======================
+======= Country =======
+ID: cid-cia-Chile
+Continent: South America
+Name: Chile
+Datacode: CI
+Population: 14333258
+Population growth: 1.24
+Infant mortality: 13.6
+Gdp agri: 7.4
+Inflation: 8.1
+Gdp total: 113200
+Indep date: 18 09 1810
+Government: republic
+Capital: Santiago
+======================
+======= Country =======
+ID: cid-cia-Colombia
+Continent: South America
+Name: Colombia
+Datacode: CO
+Population: 36813161
+Population growth: 1.66
+Infant mortality: 25.8
+Gdp agri: 21.5
+Inflation: 19.5
+Gdp total: 192500
+Indep date: 20 07 1810
+Government: republic
+Capital: Bogota
+======================
+======= Country =======
+ID: cid-cia-Ecuador
+Continent: South America
+Name: Ecuador
+Datacode: EC
+Population: 11466291
+Population growth: 1.96
+Infant mortality: 34.8
+Gdp agri: 13
+Inflation: 25
+Gdp total: 44600
+Indep date: 24 05 1822
+Government: republic
+Capital: Quito
+======================
+======= Country =======
+ID: cid-cia-Falkland-Islands
+Continent: South America
+Name: Falkland Islands
+Datacode: FA
+Population: 2374
+Population growth: 2.43
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: dependent territory of the UK
+Capital: Stanley
+======================
+======= Country =======
+ID: cid-cia-French-Guiana
+Continent: South America
+Name: French Guiana
+Datacode: FG
+Population: 151187
+Population growth: 3.86
+Infant mortality: 14.6
+Gdp agri: 
+Inflation: 2.5
+Gdp total: 800
+Indep date: 
+Government: overseas department of France
+Capital: Cayenne
+======================
+======= Country =======
+ID: cid-cia-Guyana
+Continent: South America
+Name: Guyana
+Datacode: GY
+Population: 712091
+Population growth: -0.9
+Infant mortality: 51.4
+Gdp agri: 26.5
+Inflation: 8.1
+Gdp total: 1600
+Indep date: 26 05 1966
+Government: republic
+Capital: Georgetown
+======================
+======= Country =======
+ID: cid-cia-Paraguay
+Continent: South America
+Name: Paraguay
+Datacode: PA
+Population: 5504146
+Population growth: 2.67
+Infant mortality: 23.2
+Gdp agri: 25.7
+Inflation: 10.5
+Gdp total: 17000
+Indep date: 14 05 1811
+Government: republic
+Capital: Asuncion
+======================
+======= Country =======
+ID: cid-cia-Peru
+Continent: South America
+Name: Peru
+Datacode: PE
+Population: 24523408
+Population growth: 1.74
+Infant mortality: 52.2
+Gdp agri: 
+Inflation: 10.2
+Gdp total: 87000
+Indep date: 28 07 1821
+Government: republic
+Capital: Lima
+======================
+======= Country =======
+ID: cid-cia-South-Georgia-and-the-South-Sandwich-Islands
+Continent: South America
+Name: South Georgia and the South Sandwich Islands
+Datacode: SX
+Population: 0
+Population growth: 
+Infant mortality: 
+Gdp agri: 
+Inflation: 
+Gdp total: 
+Indep date: 
+Government: dependent territory of the UK
+Capital: 
+======================
+======= Country =======
+ID: cid-cia-Suriname
+Continent: South America
+Name: Suriname
+Datacode: NS
+Population: 436418
+Population growth: 1.6
+Infant mortality: 29.3
+Gdp agri: 21.6
+Inflation: 62
+Gdp total: 1300
+Indep date: 25 11 1975
+Government: republic
+Capital: Paramaribo
+======================
+======= Country =======
+ID: cid-cia-Uruguay
+Continent: South America
+Name: Uruguay
+Datacode: UY
+Population: 3238952
+Population growth: 0.7
+Infant mortality: 15.4
+Gdp agri: 10.5
+Inflation: 35.4
+Gdp total: 24400
+Indep date: 25 08 1828
+Government: republic
+Capital: Montevideo
+======================
+======= Country =======
+ID: cid-cia-Venezuela
+Continent: South America
+Name: Venezuela
+Datacode: VE
+Population: 21983188
+Population growth: 1.89
+Infant mortality: 29.5
+Gdp agri: 5
+Inflation: 57
+Gdp total: 195500
+Indep date: 05 07 1811
+Government: republic
+Capital: Caracas
+======================
+======================
+
+Country with Hieghts population
+======= Country =======
+ID: cid-cia-Albania
+Continent: Europe
+Name: Albania
+Datacode: AL
+Population: 3249136
+Population growth: 1.34
+Infant mortality: 49.2
+Gdp agri: 55
+Inflation: 16
+Gdp total: 4100
+Indep date: 28 11 1912
+Government: emerging democracy
+Capital: Tirane
+======================
+Top 5 countries with hiegest inflation
+======= Country =======
+ID: cid-cia-Albania
+Continent: Europe
+Name: Albania
+Datacode: AL
+Population: 3249136
+Population growth: 1.34
+Infant mortality: 49.2
+Gdp agri: 55
+Inflation: 16
+Gdp total: 4100
+Indep date: 28 11 1912
+Government: emerging democracy
+Capital: Tirane
+======================
+======= Country =======
+ID: cid-cia-Andorra
+Continent: Europe
+Name: Andorra
+Datacode: AN
+Population: 72766
+Population growth: 2.96
+Infant mortality: 2.2
+Gdp agri: 
+Inflation: 
+Gdp total: 1000
+Indep date: 
+Government: parliamentary democracy that retains as its heads of state a coprincipality
+Capital: Andorra la Vella
+======================
+======= Country =======
+ID: cid-cia-Austria
+Continent: Europe
+Name: Austria
+Datacode: AU
+Population: 8023244
+Population growth: 0.41
+Infant mortality: 6.2
+Gdp agri: 2
+Inflation: 2.3
+Gdp total: 152000
+Indep date: 12 11 1918
+Government: federal republic
+Capital: Vienna
+======================
+======= Country =======
+ID: cid-cia-Belarus
+Continent: Europe
+Name: Belarus
+Datacode: BO
+Population: 10415973
+Population growth: 0.2
+Infant mortality: 13.4
+Gdp agri: 21
+Inflation: 244
+Gdp total: 49200
+Indep date: 25 08 1991
+Government: republic
+Capital: Minsk
+======================
+======= Country =======
+ID: cid-cia-Belgium
+Continent: Europe
+Name: Belgium
+Datacode: BE
+Population: 10170241
+Population growth: 0.33
+Infant mortality: 6.4
+Gdp agri: 2
+Inflation: 1.6
+Gdp total: 197000
+Indep date: 04 10 1830
+Government: constitutional monarchy
+Capital: Brussels
+======================
