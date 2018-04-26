@@ -1,0 +1,7 @@
+<%= simple_form_for @plane do |f| %>
+  <%= f.input :name %>
+  <%= f.input :seats %>
+  <%= f.input :country_id, collection: Country.all %>
+
+  <%= f.button :submit %>
+<% end %>

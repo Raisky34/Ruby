@@ -1,0 +1,31 @@
+<h1>Airports</h1>
+
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th>Actions</th>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Country</th>
+    <th>City</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% @airports.each do |airport| %>
+  <tr>
+    <td class="action-column">
+      <%= link_to 'Show', airport_path(airport) %> |
+      <%= link_to 'Edit', edit_airport_path(airport) %> |
+      <%= link_to 'Delete', airport_path(airport), method: :delete, data: {confirm: 'Are you sure?'} %>
+    </td>
+    <td><%= airport.id %></td>
+    <td><%= airport.name %></td>
+    <td><%= airport.country.name %></td>
+    <td><%= airport.city %></td>
+  </tr>
+  <% end %>
+  <%= '<td colspan="4">No airports found</td>'.html_safe if @airports.empty? %>
+  </tbody>
+</table>
+
+<a href="<%= new_airport_path %>">Create Airport</a>

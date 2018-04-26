@@ -1,0 +1,31 @@
+<h1>Trips</h1>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Actions</th>
+      <th>Id</th>
+      <th>Time In</th>
+      <th>Time Out</th>
+      <th>Plane</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @trips.each do |trip| %>
+      <tr>
+        <td class="action-column">
+        <%= link_to 'Show', trip_path(trip) %> |
+        <%= link_to 'Edit', edit_trip_path(trip) %> |
+        <%= link_to 'Delete', trip_path(trip), method: :delete, data: {confirm: 'Are you sure?'} %>
+        </td>
+        <td><%= trip.id %></td>
+        <td><%= trip.time_out %></td>
+        <td><%= trip.time_in %></td>
+        <td><%= trip.plane.name %></td>
+      </tr>
+    <% end %>
+    <%= '<td colspan="4">No trips found</td>'.html_safe if @trips.empty? %>
+  </tbody>
+</table>
+
+<a href="<%= new_trip_path %>">Create Trip</a>

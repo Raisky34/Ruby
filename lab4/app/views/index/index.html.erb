@@ -1,0 +1,43 @@
+<h1>Find the trip</h1>
+
+<%= form_tag index_index_path do %>
+  <div class="form-group">
+    <label for="airport_from">Airport from</label>
+    <%= select_tag 'airport_from', options_from_collection_for_select(Airport.all, 'id', 'name'), class: 'form-control' %>
+  </div>
+  <div class="form-group">
+    <label for="airport_to">Airport to</label>
+    <%= select_tag 'airport_to', options_from_collection_for_select(Airport.all, 'id', 'name'), class: 'form-control' %>
+  </div>
+  <%= submit_tag 'Search', class: 'btn btn-default' %>
+<% end %>
+
+<% unless @results.empty? %>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th>From</th>
+      <th>To</th>
+      <th>Time Out</th>
+      <th>Time In</th>
+      <th>Cost</th>
+    </tr>
+    </thead>
+    <tbody>
+    <% @results.each do |trip| %>
+    <tr>
+      <td><%= "#{trip.airport_from.country.name} #{trip.airport_from.city} - #{trip.airport_from.name} #{trip.airport_from.name}" %></td>
+      <td><%= "#{trip.airport_to.country.name} #{trip.airport_to.city} - #{trip.airport_to.name} #{trip.airport_to.name}" %></td>
+      <td><%= trip.time_out.strftime("%Y/%m/%d %H:%M") %></td>
+      <td><%= trip.time_in.strftime("%Y/%m/%d %H:%M") %></td>
+      <td>$<%= trip.cost %></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <% end %>
+    </tbody>
+  </table>
+
+<% end %>
+
+

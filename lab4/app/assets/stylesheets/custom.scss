@@ -1,0 +1,17 @@
+@import "bootstrap/variables";
+
+.starter-template{
+  padding-top: 80px;
+}
+
+.table {
+  .action-column {
+    width: 20%;
+  }
+}
+
+.alert-error {
+  background-color: $alert-danger-bg;
+  color: $alert-danger-text;
+  border-color: $alert-danger-border;
+}

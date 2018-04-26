@@ -1,0 +1,33 @@
+<h1>Users</h1>
+
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th>Actions</th>
+    <th>Id</th>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Phone</th>
+    <th>Email</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% @users.each do |user| %>
+  <tr>
+    <td class="action-column">
+      <%= link_to 'Show', user_path(user) %> |
+      <%= link_to 'Edit', edit_user_path(user) %> |
+      <%= link_to 'Delete', user_path(user), method: :delete, data: {confirm: 'Are you sure?'} %>
+    </td>
+    <td><%= user.id %></td>
+    <td><%= user.first_name %></td>
+    <td><%= user.last_name %></td>
+    <td><%= user.phone %></td>
+    <td><%= user.email %></td>
+  </tr>
+  <% end %>
+  <%= '<td colspan="4">No users found</td>'.html_safe if @users.empty? %>
+  </tbody>
+</table>
+
+<a href="<%= new_user_path %>">Create User</a>

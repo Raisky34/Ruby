@@ -1,0 +1,9 @@
+<%= simple_form_for @trip do |f| %>
+  <%= f.input :time_in %>
+  <%= f.input :time_out %>
+  <%= f.input :plane_id, collection: Plane.all %>
+  <%= f.input :airport_from_id, collection: Airport.all %>
+  <%= f.input :airport_to_id, collection: Airport.all %>
+
+  <%= f.button :submit %>
+<% end %>

@@ -1,0 +1,7 @@
+<%= simple_form_for @airport do |f| %>
+  <%= f.input :name %>
+  <%= f.input :city %>
+  <%= f.input :country_id, collection: Country.all %>
+
+  <%= f.button :submit %>
+<% end %>
