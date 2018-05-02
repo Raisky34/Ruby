@@ -14,6 +14,11 @@ class User < ApplicationRecord
                     :normalize_email,
                     on: :create
 
+
+  def full_name
+    return first_name + " " + last_name
+  end
+
   private
   def normalize_fisrt_name
     self.first_name = first_name.downcase.titleize

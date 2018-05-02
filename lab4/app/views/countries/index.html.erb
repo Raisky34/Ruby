@@ -6,6 +6,7 @@
     <th>Actions</th>
     <th>Id</th>
     <th>Name</th>
+    <th>Airports Count</th>
     <th>Airports</th>
   </tr>
   </thead>
@@ -20,6 +21,7 @@
     <td><%= country.id %></td>
     <td><%= country.name %></td>
     <td><%= country.airports.count %></td>
+    <td><%= country.airport_info %></td>
   </tr>
   <% end %>
   <%= '<td colspan="4">No countries found</td>'.html_safe if @countries.empty? %>

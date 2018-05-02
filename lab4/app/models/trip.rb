@@ -32,4 +32,8 @@ class Trip < ApplicationRecord
     return 0
   end
 
+  def get_trip_users
+    return users.map { |user| user.full_name }.join(', ')
+  end
+
 end

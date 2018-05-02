@@ -1,7 +1,7 @@
 class Airport < ApplicationRecord
 
   belongs_to :country
-  
+
   has_many :trips_from,
             class_name: 'Trip',
             foreign_key: 'airport_from_id'
@@ -19,5 +19,9 @@ class Airport < ApplicationRecord
 
   def get_country_name
     return country.name
+  end
+
+  def info
+    return city
   end
 end

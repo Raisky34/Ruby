@@ -12,6 +12,7 @@
       <th>Airport From</th>
       <th>Airport To</th>
       <th>Cost</th>
+      <th>Users</th>
     </tr>
   </thead>
   <tbody>
@@ -30,6 +31,7 @@
         <td><%= trip.airport_from_name %></td>
         <td><%= trip.airport_to_name %></td>
         <td>$<%= trip.cost %></td>
+        <td><%= trip.get_trip_users %></td>
       </tr>
     <% end %>
     <%= '<td colspan="4">No trips found</td>'.html_safe if @trips.empty? %>
