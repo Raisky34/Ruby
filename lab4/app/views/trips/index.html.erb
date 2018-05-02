@@ -7,7 +7,11 @@
       <th>Id</th>
       <th>Time In</th>
       <th>Time Out</th>
+      <th>Time of flight (min)</th>
       <th>Plane</th>
+      <th>Airport From</th>
+      <th>Airport To</th>
+      <th>Cost</th>
     </tr>
   </thead>
   <tbody>
@@ -19,9 +23,13 @@
         <%= link_to 'Delete', trip_path(trip), method: :delete, data: {confirm: 'Are you sure?'} %>
         </td>
         <td><%= trip.id %></td>
-        <td><%= trip.time_out %></td>
-        <td><%= trip.time_in %></td>
-        <td><%= trip.plane.name %></td>
+        <td><%= trip.time_out.strftime("%Y/%m/%d %H:%M") %></td>
+        <td><%= trip.time_in.strftime("%Y/%m/%d %H:%M") %></td>
+        <td><%= trip.time_of_flight %></td>
+        <td><%= trip.plane_name %></td>
+        <td><%= trip.airport_from_name %></td>
+        <td><%= trip.airport_to_name %></td>
+        <td>$<%= trip.cost %></td>
       </tr>
     <% end %>
     <%= '<td colspan="4">No trips found</td>'.html_safe if @trips.empty? %>

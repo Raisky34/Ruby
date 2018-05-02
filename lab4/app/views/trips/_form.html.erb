@@ -4,6 +4,7 @@
   <%= f.input :plane_id, collection: Plane.all %>
   <%= f.input :airport_from_id, collection: Airport.all %>
   <%= f.input :airport_to_id, collection: Airport.all %>
+  <%= f.input :cost %>
 
   <%= f.button :submit %>
 <% end %>

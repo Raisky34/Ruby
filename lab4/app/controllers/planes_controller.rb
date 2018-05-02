@@ -43,7 +43,7 @@ class PlanesController < ApplicationController
   private
 
   def plane_params
-    params[:plane].permit(:name)
+    params[:plane].permit(:name, :seats)
   end
 
   def find_plane
