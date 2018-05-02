@@ -7,6 +7,7 @@
     <th>Id</th>
     <th>Name</th>
     <th>Seats</th>
+    <th>Free Seats</th>
   </tr>
   </thead>
   <tbody>
@@ -20,6 +21,7 @@
     <td><%= plane.id %></td>
     <td><%= plane.name %></td>
     <td><%= plane.seats %></td>
+    <td><%= plane.free_seats %></td>
   </tr>
   <% end %>
   <%= '<td colspan="4">No planes found</td>'.html_safe if @planes.empty? %>
