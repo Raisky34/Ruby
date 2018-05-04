@@ -45,7 +45,7 @@ class TripsController < ApplicationController
   private
 
   def trip_params
-    params[:trip].permit(:name, :time_in, :time_out, :plane_id, :airport_from_id, :airport_to_id, :cost)
+    params[:trip].permit(:name, :time_in, :time_out, :plane_id, :airport_from_id, :airport_to_id, :cost, :user_id)
   end
 
   def find_trip
