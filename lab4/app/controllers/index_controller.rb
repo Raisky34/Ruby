@@ -2,7 +2,7 @@ class IndexController < ApplicationController
   def index
     @results = []
     if params[:commit]
-      @results = Trip.where('airport_from_id = :from and airport_to_id = :to', from: params[:airport_from], to: params[:airport_to]).order(time_out: :asc)
+      @results = [Trip.where('airport_from_id = :from and airport_to_id = :to', from: params[:airport_from], to: params[:airport_to]).order(cost: :asc).first]
     end
   end
 
