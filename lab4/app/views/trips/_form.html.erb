@@ -5,6 +5,11 @@
   <%= f.input :airport_from_id, collection: Airport.all %>
   <%= f.input :airport_to_id, collection: Airport.all %>
   <%= f.input :cost %>
+  
+  <div class="form-group">
+    <label for="airport_to">Users</label>
+    <%= select_tag 'user_id', options_from_collection_for_select(User.all, 'id', 'full_name'), class: 'form-control' %>
+  </div>
 
   <%= f.button :submit %>
 <% end %>
