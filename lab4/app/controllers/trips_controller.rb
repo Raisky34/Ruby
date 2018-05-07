@@ -11,7 +11,11 @@ class TripsController < ApplicationController
 
   def create
     @trip = Trip.new(trip_params)
-    @trip.users = [User.find(params[:user_id])]
+    if params[:user_ids].length == 1
+      @trip.users = [User.find(*params[:user_ids])]
+    else
+      @trip.users = User.find(*params[:user_ids])
+    end
 
     if @trip.save
       redirect_to trips_path
@@ -24,7 +28,11 @@ class TripsController < ApplicationController
 
   def update
     if @trip.update(trip_params)
-      @trip.users = [User.find(params[:user_id])]
+      if params[:user_ids].length == 1
+        @trip.users = [User.find(*params[:user_ids])]
+      else
+        @trip.users = User.find(*params[:user_ids])
+      end
       flash.now[:error] = 'test'
       redirect_to trips_path
     else
